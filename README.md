@@ -9,7 +9,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 ### Referans Düzenleme Yazılımları
 - [Zotero]
 - [Zotero Kullanımı]
-- Mendeley
+- Mendeley(https://www.mendeley.com/)
 - 
 
 ![Acilis Resmi](her_is_zor_baslar.png)
