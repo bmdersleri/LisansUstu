@@ -53,6 +53,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Time Series Analysis using R: Tutorial]
 - [Time Series Deep Learning: Forecasting Sunspots With Keras Stateful LSTM In R]
 - [Time Series Forecasting using LSTM in R]
+- [Using R for Time Series Analysis]
 - 
 - 
 
@@ -190,5 +191,5 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Time Series in R]: <https://www.youtube.com/watch?v=QHsmAM6nktY&list=PLCj1LhGni3hOA2q0sfDNKBH9WIlLxXkbn&ab_channel=librarianwomack>
 [Time Series Forecasting ARIMA vs LSTM-RNN]: <https://github.com/Divyatmika28/Time-Series-Forecasting---ARIMA-v-s-LSTM-RNN>
 [Understanding LSTM Networks]: <https://colah.github.io/posts/2015-08-Understanding-LSTMs/>
-
+[Using R for Time Series Analysis]: <https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html>
 
