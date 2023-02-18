@@ -17,11 +17,21 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Greg Hogg]
 - [Venelin Valkov]
 - [pyData]
+- [StatQuest with Josh Starmer]
+- 
 
 
 ### Türkçe Ders Videoları
 - [BMDerslerim]
 - [Caner Erden]
+- 
+
+### Programlama
+- [Engin Demiroğ]
+
+
+### Elektronik
+- [EETechStuff]
 - 
 
 
@@ -36,3 +46,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Caner Erden]: <https://www.youtube.com/@CanerErden>
 [Venelin Valkov]:<https://www.youtube.com/@venelin_valkov>
 [pyData]:<https://www.youtube.com/@PyDataTV>
+[StatQuest with Josh Starmer]:<https://www.youtube.com/@statquest>
+
+[EETechStuff]:<https://www.youtube.com/@EETechStuff>
+[Engin Demiroğ]:<https://www.youtube.com/@engindemirog2946>
