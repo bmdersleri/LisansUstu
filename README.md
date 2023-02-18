@@ -82,6 +82,9 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [DMK Data]
 - 
 
+### Optimizasyon problemlerinin çözümü
+- [Solving Optimization Problems]
+
 ### Bilimsel Açıklama Videoları
 - [Simply Explained]
 - [Holosen]
@@ -206,5 +209,6 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [GluonTS - Probabilistic Time Series Modeling in Python]: <https://ts.gluon.ai/stable/>
 [Modern Aspects of Big Time Series Forecasting]: <https://lovvge.github.io/Forecasting-Tutorial-IJCAI-2021/>
 [Dr. Bharatendra Rai]: <https://www.youtube.com/@bkrai>
+[Solving Optimization Problems]: <https://www.youtube.com/channel/UCNmyH0k1SpFOCIKKncS87cg>
 
 
