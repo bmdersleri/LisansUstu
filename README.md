@@ -34,6 +34,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Time Series in R]
 - [Dr. Bharatendra Rai]
 - [AIEngineering]
+- [ritvikmath]
 - 
 - 
 
@@ -222,5 +223,5 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Recurrent Neural Network (RNN) in R]: <https://www.youtube.com/watch?v=oueuvXd4O9I&ab_channel=LiquidBrainBioinformatics>
 [Granger Causality, Impulse Response, Variance Decomposition, and Forecasting in VAR using R]: <https://www.youtube.com/watch?v=aX8IANxjucA&ab_channel=JustinEloriaga>
 [Time Series Anomaly Detection with LSTM Autoencoders using Keras & TensorFlow 2 in Python]: <https://www.youtube.com/watch?v=H4J74KstHTE&ab_channel=VenelinValkov>
-
+[ritvikmath]: <https://www.youtube.com/@ritvikmath>
 
