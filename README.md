@@ -37,6 +37,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 
 ### İstatistik dersleri ve uygulamaları
 - [MarinStatsLectures-R Programming & Statistics]
+- [Introduction to Econometrics with R]
+- 
 
 
 ### Türkçe Ders Videoları
@@ -151,6 +153,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Correlation Prediction with ARIMA-LSTM Hybrid Model]: <https://github.com/imhgchoi/ARIMA-LSTM-hybrid-corrcoef-predict>
 [Stock Price Prediction of Apple Inc. Using Recurrent Neural Network]: <https://github.com/NourozR/Stock-Price-Prediction-LSTM>
 [Hybrid ARIMA-LSTM model]: <https://github.com/cnaimo/hybrid-ARIMA-LSTM-model>
+[Introduction to Econometrics with R]: <https://www.econometrics-with-r.org/>
+
 
 
 
