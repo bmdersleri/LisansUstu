@@ -61,7 +61,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Time Series Forecasting using LSTM in R]
 - [Using R for Time Series Analysis]
 - [Introduction of Panel Data]
-- 
+- [Recurrent Neural Network (RNN) in R]
 
 ### Türkçe Ders Videoları
 - [BMDerslerim]
@@ -215,7 +215,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [AIEngineering]: <https://www.youtube.com/@AIEngineeringLife>
 [Introduction of Panel Data]: <https://www.youtube.com/watch?v=abGKu3kR0xI&list=PLBVaRzQdsqEq1xIJRDVgMBBobEN5NG7bv&ab_channel=MikleshYadav>
 [R ile Zaman Serileri Analizi]: <https://www.youtube.com/watch?v=4TqNAvL1EbM&ab_channel=RLadiesAnkara>
-
+[Recurrent Neural Network (RNN) in R]: <https://www.youtube.com/watch?v=oueuvXd4O9I&ab_channel=LiquidBrainBioinformatics>
 
 
 
