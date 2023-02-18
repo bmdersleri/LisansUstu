@@ -15,6 +15,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 
 
 ### Python ve makine öğrenmesi kursları
+
 - [Murat Karakaya Akademi]
 - [Patric Loeber]
 - [DigitalSreeni]
@@ -79,6 +80,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 
 ### Türkçe Ders Videoları
 - [BMDerslerim]
+- [Şadi Evren Şeker]: <https://www.youtube.com/@Sadievrenseker_BK>
 - [Caner Erden]
 - [Dr. Erkan AĞASLAN]
 - [malumath]
@@ -257,4 +259,5 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [3 blue 1 brown]: <https://www.youtube.com/@3blue1brown>
 [Physics Videos by Eugene Khutoryansky]: <https://www.youtube.com/@EugeneKhutoryansky/featured>
 [Murat Karakaya Akademi]: <https://www.youtube.com/@MuratKarakayaAkademi>
+[Şadi Evren Şeker]: <https://www.youtube.com/@Sadievrenseker_BK>
 
