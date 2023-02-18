@@ -21,11 +21,11 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 
 ### Türkçe Ders Videoları
 - [BMDerslerim]
-- [Şadi Evren Şeker]
 - [Caner Erden]
 - [Dr. Erkan AĞASLAN]
+- [Şadi Evren Şeker]
 - [malumath]
-- [çağatay odabaşı]
+- [Çağatay Odabaşı]
 - [Ozkan Yilmaz]
 - [Tirendaz Akademi]
 - [Makine Ogrenmesi]
@@ -196,7 +196,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 [DeepLearning004]: <https://www.youtube.com/@DeepLearning004>
 [Machine Learning University]: <https://www.youtube.com/@machinelearninguniversity1942/videos>
 [Practical Engineering]: <https://www.youtube.com/@PracticalEngineeringChannel>
-[çağatay odabaşı]: <https://www.youtube.com/@cagatayodabasi>
+[Çağatay Odabaşı]: <https://www.youtube.com/@cagatayodabasi>
 [Aladdin Persson]: <https://www.youtube.com/@AladdinPersson>
 [Benim Hocam]: <https://www.youtube.com/watch?v=co6aMiWFR6k&list=PLHZykYpdC0G6ex1LLbeAMXd2EQwIurPqf&ab_channel=BenimHocam>
 [Yapay Zeka İle Hisse Analizi]: <https://www.youtube.com/@yapayzekahisse/videos>
