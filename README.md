@@ -44,7 +44,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 ### Bilimsel Açıklama Videoları
 - [Simply Explained]
 
-
+### Sinyal İşleme
+- [DrBennett]
 
 ### Elektronik
 - [EETechStuff]
@@ -77,6 +78,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Tübingen Machine Learning]:<https://www.youtube.com/@TubingenML>
 [Shusen Wang]: <https://www.youtube.com/@ShusenWangEng>
 [Halfling Wizard]: <https://www.youtube.com/@HalflingWizard>
+[DrBennett]: <https://www.youtube.com/@TheCuzincuz/videos>
 
 
 
