@@ -132,7 +132,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Darts: Time Series Made Easy in Python]
 - [GluonTS - Probabilistic Time Series Modeling in Python]
 - [Modern Aspects of Big Time Series Forecasting]
-- 
+- [A Gentle Introduction to Autocorrelation and Partial Autocorrelation]
 
 
 //-------------------------------
@@ -229,3 +229,4 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Doing Meta-Analysis in R]: <https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/discovering-R.html#data-prep-R>
 [A Complete Tutorial on Time Series Modeling in R]: <https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/>
 [A Complete Tutorial to learn Data Science in R from Scratch]: <https://www.analyticsvidhya.com/blog/2016/02/complete-tutorial-learn-data-science-scratch/>
+[A Gentle Introduction to Autocorrelation and Partial Autocorrelation]: <https://machinelearningmastery.com/gentle-introduction-autocorrelation-partial-autocorrelation/>
