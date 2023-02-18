@@ -45,6 +45,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Sosyal Bilimler R Platformu]
 - [Zaman Serisi Nedir? R ile Zaman Serisi Analizine Giriş]
 - [R ile Zaman Serileri Analizi]
+- [Hands-On Machine Learning with R]
 - [A Gentle Introduction to Time Series Analysis & Forecasting]
 - [MarinStatsLectures-R Programming & Statistics]
 - [Introduction to Econometrics with R]
@@ -232,4 +233,5 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [A Complete Tutorial to learn Data Science in R from Scratch]: <https://www.analyticsvidhya.com/blog/2016/02/complete-tutorial-learn-data-science-scratch/>
 [A Gentle Introduction to Autocorrelation and Partial Autocorrelation]: <https://machinelearningmastery.com/gentle-introduction-autocorrelation-partial-autocorrelation/>
 [A Gentle Introduction to Handling a Non-Stationary Time Series in Python]: <https://www.analyticsvidhya.com/blog/2018/09/non-stationary-time-series-python/>
+[Hands-On Machine Learning with R]: <https://bradleyboehmke.github.io/HOML/>
 
