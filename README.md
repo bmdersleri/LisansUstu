@@ -24,6 +24,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [The AI Guy]
 - [TheCodingBug]
 - [DeepLearning004]
+- [Machine Learning University]
 - 
 
 
@@ -93,6 +94,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [The AI Guy]:<https://www.youtube.com/@TheAIGuy>
 [TheCodingBug]: <https://www.youtube.com/@TheCodingBug>
 [DeepLearning004]: <https://www.youtube.com/@DeepLearning004>
+[Machine Learning University]: <https://www.youtube.com/@machinelearninguniversity1942/videos>
+
 
 
 
