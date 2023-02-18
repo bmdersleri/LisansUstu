@@ -8,7 +8,9 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 
 ### Çeşitli matemetiksel yaklaşımların görselleştirildiği videolar 
 
-- [Visually Explained] 
+- [Visually Explained]
+- [3 blue 1 brown]
+- 
 
 
 ### Python ve makine öğrenmesi kursları
@@ -82,6 +84,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - 
 
 ### Akademik Hayat
+- [AkademikLink]
 - [Metin Aytekin]
 - [Oğuz Ergin]
 - 
@@ -248,4 +251,6 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Ensemble learning for time series forecasting in R]: <https://petolau.github.io/Ensemble-of-trees-for-forecasting-time-series/>
 [Time Series Analysis of PM 2.5 Content in Beijing]: <https://github.com/josephsdavid/ChinesePM/tree/f449edc75b1e3fe022ed54d6625598b3a9455592>
 [Forecasting: Principles and Practice 2nd Ed.]: <https://otexts.com/fpp2/>
+[AkademikLink]: <https://www.youtube.com/@akademiklink>
+[3 blue 1 brown]: <https://www.youtube.com/@3blue1brown>
 
