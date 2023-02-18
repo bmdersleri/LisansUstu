@@ -84,6 +84,9 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Multivariate Imputation by Chained Equations]
 - [Machine Learning For Finance]
 - [BRITS: Bidirectional Recurrent Imputation for Time Series]
+- [Financial Machine Learning]
+- [Correlation Prediction with ARIMA-LSTM Hybrid Model]
+- [Stock Price Prediction of Apple Inc. Using Recurrent Neural Network]
 - 
 
 
@@ -140,10 +143,12 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Multivariate Imputation by Chained Equations]: <https://github.com/amices/mice>
 [Machine Learning For Finance]: <https://github.com/anthonyng2/Machine-Learning-For-Finance>
 [BRITS: Bidirectional Recurrent Imputation for Time Series]: <https://github.com/caow13/BRITS>
+[Financial Machine Learning]: <https://github.com/firmai/financial-machine-learning>
+[Correlation Prediction with ARIMA-LSTM Hybrid Model]: <https://github.com/imhgchoi/ARIMA-LSTM-hybrid-corrcoef-predict>
 
 
 
-
+[Stock Price Prediction of Apple Inc. Using Recurrent Neural Network]: <https://github.com/NourozR/Stock-Price-Prediction-LSTM>
 
 
 
