@@ -38,7 +38,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - 
 
 ### Bilimsel Açıklama Videoları
-- [Simply Explained]:<https://www.youtube.com/@simplyexplained>
+- [Simply Explained]
 
 
 
@@ -68,4 +68,5 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Fox Learn]:<https://www.youtube.com/@foxlearn>
 [Dr. Erkan AĞASLAN]:<https://www.youtube.com/@DrErkanAGASLAN>
 [Metin Aytekin]: <https://www.youtube.com/@metinaytekin>
+[Simply Explained]:<https://www.youtube.com/@simplyexplained>
 
