@@ -25,6 +25,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [TheCodingBug]
 - [DeepLearning004]
 - [Machine Learning University]
+- [Aladdin Persson]
 - 
 
 
@@ -99,6 +100,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Machine Learning University]: <https://www.youtube.com/@machinelearninguniversity1942/videos>
 [Practical Engineering]: <https://www.youtube.com/@PracticalEngineeringChannel>
 [çağatay odabaşı]: <https://www.youtube.com/@cagatayodabasi>
+[Aladdin Persson]: <https://www.youtube.com/@AladdinPersson>
+
 
 
 
