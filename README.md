@@ -38,7 +38,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 ### İstatistik dersleri ve uygulamaları
 - [MarinStatsLectures-R Programming & Statistics]
 - [Introduction to Econometrics with R]
-- 
+- [Jamovi]
 
 
 ### Türkçe Ders Videoları
@@ -154,6 +154,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Stock Price Prediction of Apple Inc. Using Recurrent Neural Network]: <https://github.com/NourozR/Stock-Price-Prediction-LSTM>
 [Hybrid ARIMA-LSTM model]: <https://github.com/cnaimo/hybrid-ARIMA-LSTM-model>
 [Introduction to Econometrics with R]: <https://www.econometrics-with-r.org/>
+[Jamovi]: <https://datalab.cc/jamovi/>
+
 
 
 
