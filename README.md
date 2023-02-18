@@ -44,6 +44,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 
 ### Akademik Hayat
 - [Metin Aytekin]
+- [Oğuz Ergin]
+- 
 
 
 
@@ -117,6 +119,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Machine Learning Interview]: <https://www.youtube.com/@machinelearninginterview4023>
 [mildlyoverfitted]: <https://www.youtube.com/@mildlyoverfitted>
 [Connor Shorten]: <https://www.youtube.com/@connorshorten6311>
+[Oğuz Ergin]: <https://www.youtube.com/@oguz_ergin>
+
 
 
 
