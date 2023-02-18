@@ -22,6 +22,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Shusen Wang]
 - [Halfling Wizard]
 - [The AI Guy]
+- [TheCodingBug]
 - 
 
 
@@ -89,7 +90,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Holosen]: <https://www.youtube.com/@Holosen>
 [malumath]: <https://www.youtube.com/@malumath/videos>
 [The AI Guy]:<https://www.youtube.com/@TheAIGuy>
-
+[TheCodingBug]: <https://www.youtube.com/@TheCodingBug>
 
 
 
