@@ -36,7 +36,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [AIEngineering]
 - [ritvikmath]
 - [A Complete Tutorial to learn Data Science in R from Scratch]
-- 
+
+ 
 
 ### Yapay Zeka Uygulamaları
 - [Yapay Zeka İle Hisse Analizi]
@@ -67,6 +68,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Granger Causality, Impulse Response, Variance Decomposition, and Forecasting in VAR using R]
 - [Doing Meta-Analysis in R]
 - [A Complete Tutorial on Time Series Modeling in R]
+- [Machine Learning for Factor Investing]
 
 ### Türkçe Ders Videoları
 - [BMDerslerim]
@@ -234,4 +236,5 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [A Gentle Introduction to Autocorrelation and Partial Autocorrelation]: <https://machinelearningmastery.com/gentle-introduction-autocorrelation-partial-autocorrelation/>
 [A Gentle Introduction to Handling a Non-Stationary Time Series in Python]: <https://www.analyticsvidhya.com/blog/2018/09/non-stationary-time-series-python/>
 [Hands-On Machine Learning with R]: <https://bradleyboehmke.github.io/HOML/>
+[Machine Learning for Factor Investing]: <http://www.mlfactor.com/index.html>
 
