@@ -39,6 +39,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Dali n Code]
 - [Fox Learn]
 - [JamesQQuick]
+- [DMK Data]
 - 
 
 ### Bilimsel Açıklama Videoları
@@ -79,6 +80,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Shusen Wang]: <https://www.youtube.com/@ShusenWangEng>
 [Halfling Wizard]: <https://www.youtube.com/@HalflingWizard>
 [DrBennett]: <https://www.youtube.com/@TheCuzincuz/videos>
+[DMK Data]: <https://www.youtube.com/@dmkdata/videos>
+
 
 
 
