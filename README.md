@@ -5,17 +5,20 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 
 ## Faydalı Youtube Kanalları
 
-
-### Çeşitli matemetiksel yaklaşımların görselleştirildiği videolar 
-
-- [Visually Explained]
-- [3 blue 1 brown]
-- [Physics Videos by Eugene Khutoryansky]
-- 
-
+### Türkçe Ders Videoları
+- [BMDerslerim]
+- [BTK Akademi]
+- [Şadi Evren Şeker]
+- [Caner Erden]
+- [Dr. Erkan AĞASLAN]
+- [malumath]
+- [çağatay odabaşı]
+- [Ozkan Yilmaz]
+- [Tirendaz Akademi]
+- [Makine Ogrenmesi]
+- [Mehmet İşcan]
 
 ### Python ve makine öğrenmesi kursları
-
 - [Murat Karakaya Akademi]
 - [Patric Loeber]
 - [DigitalSreeni]
@@ -42,10 +45,34 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [ritvikmath]
 - [A Complete Tutorial to learn Data Science in R from Scratch]
 
- 
-
 ### Yapay Zeka Uygulamaları
 - [Yapay Zeka İle Hisse Analizi]
+
+### Zaman Serisi Analizleri
+- [How to Develop LSTM Models for Time Series Forecasting]
+- [Stock Price Prediction using LSTM, FBProphet and ARIMA Model]
+- [Multivariate Imputation by Chained Equations]
+- [Machine Learning For Finance]
+- [BRITS: Bidirectional Recurrent Imputation for Time Series]
+- [Financial Machine Learning]
+- [Correlation Prediction with ARIMA-LSTM Hybrid Model]
+- [Stock Price Prediction of Apple Inc. Using Recurrent Neural Network]
+- [Hybrid ARIMA-LSTM model]
+- [Time Series Forecasting ARIMA vs LSTM-RNN]
+- [Understanding LSTM Networks]
+- [Applied Time Series]
+- [Time Series Forecasting Using Python]
+- [Complete Guide on Time Series Analysis in Python]
+- [Darts: Time Series Made Easy in Python]
+- [GluonTS - Probabilistic Time Series Modeling in Python]
+- [Modern Aspects of Big Time Series Forecasting]
+- [A Gentle Introduction to Autocorrelation and Partial Autocorrelation]
+- [A Gentle Introduction to Handling a Non-Stationary Time Series in Python]
+- [Deep Learning Models for Univariate Time Series Forecasting]
+- [Developing Forecast Models from Time-Series Data in MATLAB]
+
+### Anomali Tespiti
+- [Time Series Anomaly Detection with LSTM Autoencoders using Keras & TensorFlow 2 in Python]
 
 ### İstatistik dersleri ve R uygulamaları
 - [Sosyal Bilimler R Platformu]
@@ -78,26 +105,6 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Time Series Analysis of PM 2.5 Content in Beijing]
 - [Forecasting: Principles and Practice 2nd Ed.]
 
-### Türkçe Ders Videoları
-- [BMDerslerim]
-- [BTK Akademi]
-- [Şadi Evren Şeker]
-- [Caner Erden]
-- [Dr. Erkan AĞASLAN]
-- [malumath]
-- [çağatay odabaşı]
-- [Ozkan Yilmaz]
-- [Tirendaz Akademi]
-- [Makine Ogrenmesi]
-- [Mehmet İşcan]
-- 
-
-### Akademik Hayat
-- [AkademikLink]
-- [Metin Aytekin]
-- [Oğuz Ergin]
-- 
-
 ### Programlama
 - [Engin Demiroğ]
 - [Dali n Code]
@@ -109,13 +116,6 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 ### Optimizasyon problemlerinin çözümü
 - [Solving Optimization Problems]
 
-### Bilimsel Açıklama Videoları
-- [Simply Explained]
-- [Holosen]
-- [Practical Engineering]
-- [Animagraffs]
-- 
-
 ### Sinyal İşleme
 - [DrBennett]
 
@@ -123,41 +123,28 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [EETechStuff]
 - [Shawn Hymel]
 
+### Çeşitli matemetiksel yaklaşımların görselleştirildiği videolar 
+- [Visually Explained]
+- [3 blue 1 brown]
+- [Physics Videos by Eugene Khutoryansky]
+
+### Bilimsel Açıklama Videoları
+- [Simply Explained]
+- [Holosen]
+- [Practical Engineering]
+- [Animagraffs]
+
+### Akademik Hayat
+- [AkademikLink]
+- [Metin Aytekin]
+- [Oğuz Ergin]
 
 ### İngilizce Ders Videoları
 - [Benim Hocam]
-- 
-
-### Anomali Tespiti
-- [Time Series Anomaly Detection with LSTM Autoencoders using Keras & TensorFlow 2 in Python]
 
 
-### Zaman Serisi Analizleri
-- [How to Develop LSTM Models for Time Series Forecasting]
-- [Stock Price Prediction using LSTM, FBProphet and ARIMA Model]
-- [Multivariate Imputation by Chained Equations]
-- [Machine Learning For Finance]
-- [BRITS: Bidirectional Recurrent Imputation for Time Series]
-- [Financial Machine Learning]
-- [Correlation Prediction with ARIMA-LSTM Hybrid Model]
-- [Stock Price Prediction of Apple Inc. Using Recurrent Neural Network]
-- [Hybrid ARIMA-LSTM model]
-- [Time Series Forecasting ARIMA vs LSTM-RNN]
-- [Understanding LSTM Networks]
-- [Applied Time Series]
-- [Time Series Forecasting Using Python]
-- [Complete Guide on Time Series Analysis in Python]
-- [Darts: Time Series Made Easy in Python]
-- [GluonTS - Probabilistic Time Series Modeling in Python]
-- [Modern Aspects of Big Time Series Forecasting]
-- [A Gentle Introduction to Autocorrelation and Partial Autocorrelation]
-- [A Gentle Introduction to Handling a Non-Stationary Time Series in Python]
-- [Deep Learning Models for Univariate Time Series Forecasting]
-- [Developing Forecast Models from Time-Series Data in MATLAB]
-- 
 
 
-//-------------------------------
 
 [Rob Mulla]: <https://www.youtube.com/@robmulla>
 [Visually Explained]: <https://www.youtube.com/c/BachirElKhadir/videos>
@@ -170,7 +157,6 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Venelin Valkov]:<https://www.youtube.com/@venelin_valkov>
 [pyData]:<https://www.youtube.com/@PyDataTV>
 [StatQuest with Josh Starmer]:<https://www.youtube.com/@statquest>
-
 [EETechStuff]:<https://www.youtube.com/@EETechStuff>
 [Engin Demiroğ]:<https://www.youtube.com/@engindemirog2946>
 [Dali n Code]:<https://www.youtube.com/@kesali>
@@ -201,9 +187,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [mildlyoverfitted]: <https://www.youtube.com/@mildlyoverfitted>
 [Connor Shorten]: <https://www.youtube.com/@connorshorten6311>
 [Oğuz Ergin]: <https://www.youtube.com/@oguz_ergin>
-
 [MarinStatsLectures-R Programming & Statistics]: <https://www.youtube.com/@marinstatlectures>
-
 [How to Develop LSTM Models for Time Series Forecasting]: <https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/#:~:text=Multi%2DStep%20Output.-,Univariate%20LSTM%20Models,next%20value%20in%20the%20sequence.>
 [Stock Price Prediction using LSTM, FBProphet and ARIMA Model]: <https://github.com/AjayKumar1994/Stock-Price-Prediction-LSTM-FBProphet-ARIMA>
 [Multivariate Imputation by Chained Equations]: <https://github.com/amices/mice>
@@ -270,4 +254,3 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Makine Ogrenmesi]: <https://www.youtube.com/@MakineOgrenmesi>
 [BTK Akademi]: <https://www.btkakademi.gov.tr/>
 [Mehmet İşcan]: <https://www.youtube.com/@memo8301>
-
