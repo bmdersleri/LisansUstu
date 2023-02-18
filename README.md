@@ -51,6 +51,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Yapay Zeka İle Hisse Analizi]
 
 ### Zaman Serisi Analizleri
+![ts](ts.png)
 - [How to Develop LSTM Models for Time Series Forecasting]
 - [Stock Price Prediction using LSTM, FBProphet and ARIMA Model]
 - [Multivariate Imputation by Chained Equations]
