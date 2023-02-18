@@ -64,6 +64,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Introduction of Panel Data]
 - [Recurrent Neural Network (RNN) in R]
 - [Granger Causality, Impulse Response, Variance Decomposition, and Forecasting in VAR using R]
+- [Doing Meta-Analysis in R]
 
 ### Türkçe Ders Videoları
 - [BMDerslerim]
@@ -224,4 +225,5 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Granger Causality, Impulse Response, Variance Decomposition, and Forecasting in VAR using R]: <https://www.youtube.com/watch?v=aX8IANxjucA&ab_channel=JustinEloriaga>
 [Time Series Anomaly Detection with LSTM Autoencoders using Keras & TensorFlow 2 in Python]: <https://www.youtube.com/watch?v=H4J74KstHTE&ab_channel=VenelinValkov>
 [ritvikmath]: <https://www.youtube.com/@ritvikmath>
+[Doing Meta-Analysis in R]: <https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/discovering-R.html#data-prep-R>
 
