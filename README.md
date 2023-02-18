@@ -113,6 +113,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Time Series Forecasting ARIMA vs LSTM-RNN]
 - [Understanding LSTM Networks]
 - [Applied Time Series]
+- [Time Series Forecasting Using Python]
 - 
 
 
@@ -193,4 +194,5 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Applied Time Series]: <https://www.youtube.com/watch?v=RJzmHkGWCxs&list=PLEuzmtv9IuT_vg5oE0lQyZR-wgbVeGztt&ab_channel=JustinEloriaga>
 [Zaman Serisi Nedir? R ile Zaman Serisi Analizine Giriş]: <https://productphilosophy.com/zaman-serisi-analizi/>
 [A Gentle Introduction to Time Series Analysis & Forecasting]: <https://wandb.ai/iamleonie/A-Gentle-Introduction-to-Time-Series-Analysis-Forecasting/reports/A-Gentle-Introduction-to-Time-Series-Analysis-Forecasting--VmlldzoyNjkxOTMz>
+[Time Series Forecasting Using Python]: <https://www.analyticsvidhya.com/blog/2022/06/time-series-forecasting-using-python/>
 
