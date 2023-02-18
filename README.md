@@ -35,10 +35,11 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 ### Yapay Zeka Uygulamaları
 - [Yapay Zeka İle Hisse Analizi]
 
-### İstatistik dersleri ve uygulamaları
+### İstatistik dersleri ve R uygulamaları
 - [MarinStatsLectures-R Programming & Statistics]
 - [Introduction to Econometrics with R]
 - [Jamovi]
+- [LSTM TIME SERIES PREDICTION IN R]
 
 
 ### Türkçe Ders Videoları
@@ -155,6 +156,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Hybrid ARIMA-LSTM model]: <https://github.com/cnaimo/hybrid-ARIMA-LSTM-model>
 [Introduction to Econometrics with R]: <https://www.econometrics-with-r.org/>
 [Jamovi]: <https://datalab.cc/jamovi/>
+[LSTM TIME SERIES PREDICTION IN R]: <http://datasideoflife.com/?p=1171>
+
 
 
 
