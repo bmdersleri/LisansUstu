@@ -1,6 +1,9 @@
 # LisansUstu
 Lisanüstü çalışmalar için yol gösterici kaynaklar
 
+Mutlaka okumanız gereken makale: [Makale IMRAD] 
+https://github.com/bmdersleri/LisansUstu/blob/main/Bilimsel%20Yay%C4%B1n%20Haz%C4%B1rlama%20Teknikleri-%20I%CC%87MRAD.pdf
+
 ![Acilis Resmi](her_is_zor_baslar.png)
 
 
@@ -260,3 +263,4 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Makine Ogrenmesi]: <https://www.youtube.com/@MakineOgrenmesi>
 [BTK Akademi]: <https://www.btkakademi.gov.tr/>
 [Mehmet İşcan]: <https://www.youtube.com/@memo8301>
+[Makale IMRAD]: <https://github.com/bmdersleri/LisansUstu/blob/main/Bilimsel%20Yay%C4%B1n%20Haz%C4%B1rlama%20Teknikleri-%20I%CC%87MRAD.pdf>
