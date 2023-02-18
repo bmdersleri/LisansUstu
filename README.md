@@ -40,6 +40,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Introduction to Econometrics with R]
 - [Jamovi]
 - [LSTM TIME SERIES PREDICTION IN R]
+- [r-statistics.co]
 
 
 ### Türkçe Ders Videoları
@@ -157,11 +158,5 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Introduction to Econometrics with R]: <https://www.econometrics-with-r.org/>
 [Jamovi]: <https://datalab.cc/jamovi/>
 [LSTM TIME SERIES PREDICTION IN R]: <http://datasideoflife.com/?p=1171>
-
-
-
-
-
-
-
+[r-statistics.co]: <http://r-statistics.co/>
 
