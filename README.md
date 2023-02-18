@@ -116,7 +116,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Time Series Forecasting Using Python]
 - [Complete Guide on Time Series Analysis in Python]
 - [Darts: Time Series Made Easy in Python]
-- 
+- [GluonTS - Probabilistic Time Series Modeling in Python]
 - 
 
 
@@ -200,4 +200,5 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Time Series Forecasting Using Python]: <https://www.analyticsvidhya.com/blog/2022/06/time-series-forecasting-using-python/>
 [Complete Guide on Time Series Analysis in Python]: <https://www.kaggle.com/code/prashant111/complete-guide-on-time-series-analysis-in-python>
 [Darts: Time Series Made Easy in Python]: <https://unit8.com/resources/darts-time-series-made-easy-in-python/>
+[GluonTS - Probabilistic Time Series Modeling in Python]: <https://ts.gluon.ai/stable/>
 
