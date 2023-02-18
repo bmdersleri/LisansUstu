@@ -21,6 +21,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Mehmet İşcan]
 
 ### Python ve makine öğrenmesi kursları
+![python](python_logo.png)
 - [Murat Karakaya Akademi]
 - [Patric Loeber]
 - [DigitalSreeni]
