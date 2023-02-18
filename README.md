@@ -15,6 +15,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Rob Mulla]    
 - [Edureka!]
 - [Greg Hogg]
+- [Venelin Valkov]
 
 
 ### Türkçe Ders Videoları
@@ -32,3 +33,4 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Greg Hogg]:<https://www.youtube.com/@GregHogg>
 [BMDerslerim]: <https://www.youtube.com/bmderslerim>
 [Caner Erden]: <https://www.youtube.com/@CanerErden>
+[Venelin Valkov]:<https://www.youtube.com/@venelin_valkov>
