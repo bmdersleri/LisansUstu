@@ -7,9 +7,12 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 
 - [Visually Explained] -> Çeşitli matemetiksel yaklaşımların görselleştirildiği vildeolar 
 - [Edureka!]           -> Yapay zeka algoritma videoları
-- [Patric Loeber]      -> Python ve makine öğrenmesi kursları
-- [DigitalSreeni]      -> Python ve makine öğrenmesi kursları
-- [Rob Mulla]          -> Python ve makine öğrenmesi kursları\n
+
+
+##Python ve makine öğrenmesi kursları
+- [Patric Loeber]
+- [DigitalSreeni]
+- [Rob Mulla]    
 
 
 
