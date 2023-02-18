@@ -28,6 +28,9 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Aladdin Persson]
 - 
 
+### Yapay Zeka Uygulamaları
+- [Yapay Zeka İle Hisse Analizi]
+
 
 ### Türkçe Ders Videoları
 - [BMDerslerim]
@@ -106,6 +109,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [çağatay odabaşı]: <https://www.youtube.com/@cagatayodabasi>
 [Aladdin Persson]: <https://www.youtube.com/@AladdinPersson>
 [Benim Hocam]: <https://www.youtube.com/watch?v=co6aMiWFR6k&list=PLHZykYpdC0G6ex1LLbeAMXd2EQwIurPqf&ab_channel=BenimHocam>
+[Yapay Zeka İle Hisse Analizi]: <https://www.youtube.com/@yapayzekahisse/videos>
+
 
 
 
