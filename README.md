@@ -31,6 +31,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Machine Learning Interview]
 - [mildlyoverfitted]
 - [Connor Shorten]
+- [Time Series in R]
+- 
 
 ### Yapay Zeka Uygulamaları
 - [Yapay Zeka İle Hisse Analizi]
@@ -183,7 +185,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Time Series Analysis using R: Tutorial]: <https://www.datacamp.com/tutorial/time-series-r>
 [Time Series Deep Learning: Forecasting Sunspots With Keras Stateful LSTM In R]: <https://www.r-bloggers.com/2018/04/time-series-deep-learning-forecasting-sunspots-with-keras-stateful-lstm-in-r/>
 [Time Series Forecasting using LSTM in R]: <http://rwanjohi.rbind.io/2018/04/05/time-series-forecasting-using-lstm-in-r/>
-
+[Time Series in R]: <https://www.youtube.com/watch?v=QHsmAM6nktY&list=PLCj1LhGni3hOA2q0sfDNKBH9WIlLxXkbn&ab_channel=librarianwomack>
 
 
 
