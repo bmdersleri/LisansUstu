@@ -85,6 +85,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Dr. Erkan AĞASLAN]
 - [malumath]
 - [çağatay odabaşı]
+- [Ozkan Yilmaz]
 - 
 
 ### Akademik Hayat
@@ -260,4 +261,5 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Physics Videos by Eugene Khutoryansky]: <https://www.youtube.com/@EugeneKhutoryansky/featured>
 [Murat Karakaya Akademi]: <https://www.youtube.com/@MuratKarakayaAkademi>
 [Şadi Evren Şeker]: <https://www.youtube.com/@Sadievrenseker_BK>
+[Ozkan Yilmaz]: <https://www.youtube.com/@OzkanYilmaz>
 
