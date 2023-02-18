@@ -35,6 +35,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Engin Demiroğ]
 - [Dali n Code]
 - [Fox Learn]
+- [JamesQQuick]
 - 
 
 ### Bilimsel Açıklama Videoları
@@ -69,4 +70,5 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Dr. Erkan AĞASLAN]:<https://www.youtube.com/@DrErkanAGASLAN>
 [Metin Aytekin]: <https://www.youtube.com/@metinaytekin>
 [Simply Explained]:<https://www.youtube.com/@simplyexplained>
+[JamesQQuick]:<https://www.youtube.com/@JamesQQuick>
 
