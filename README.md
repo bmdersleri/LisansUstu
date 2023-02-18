@@ -62,6 +62,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Using R for Time Series Analysis]
 - [Introduction of Panel Data]
 - [Recurrent Neural Network (RNN) in R]
+- [Granger Causality, Impulse Response, Variance Decomposition, and Forecasting in VAR using R]
 
 ### Türkçe Ders Videoları
 - [BMDerslerim]
@@ -216,6 +217,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Introduction of Panel Data]: <https://www.youtube.com/watch?v=abGKu3kR0xI&list=PLBVaRzQdsqEq1xIJRDVgMBBobEN5NG7bv&ab_channel=MikleshYadav>
 [R ile Zaman Serileri Analizi]: <https://www.youtube.com/watch?v=4TqNAvL1EbM&ab_channel=RLadiesAnkara>
 [Recurrent Neural Network (RNN) in R]: <https://www.youtube.com/watch?v=oueuvXd4O9I&ab_channel=LiquidBrainBioinformatics>
+[Granger Causality, Impulse Response, Variance Decomposition, and Forecasting in VAR using R]: <https://www.youtube.com/watch?v=aX8IANxjucA&ab_channel=JustinEloriaga>
 
 
 
