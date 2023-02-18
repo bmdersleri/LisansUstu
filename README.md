@@ -133,6 +133,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [GluonTS - Probabilistic Time Series Modeling in Python]
 - [Modern Aspects of Big Time Series Forecasting]
 - [A Gentle Introduction to Autocorrelation and Partial Autocorrelation]
+- [A Gentle Introduction to Handling a Non-Stationary Time Series in Python]
 
 
 //-------------------------------
@@ -230,3 +231,5 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [A Complete Tutorial on Time Series Modeling in R]: <https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/>
 [A Complete Tutorial to learn Data Science in R from Scratch]: <https://www.analyticsvidhya.com/blog/2016/02/complete-tutorial-learn-data-science-scratch/>
 [A Gentle Introduction to Autocorrelation and Partial Autocorrelation]: <https://machinelearningmastery.com/gentle-introduction-autocorrelation-partial-autocorrelation/>
+[A Gentle Introduction to Handling a Non-Stationary Time Series in Python]: <https://www.analyticsvidhya.com/blog/2018/09/non-stationary-time-series-python/>
+
