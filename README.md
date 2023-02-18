@@ -15,6 +15,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 
 
 ### Python ve makine öğrenmesi kursları
+- [Murat Karakaya Akademi]
 - [Patric Loeber]
 - [DigitalSreeni]
 - [Rob Mulla]    
@@ -255,3 +256,5 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [AkademikLink]: <https://www.youtube.com/@akademiklink>
 [3 blue 1 brown]: <https://www.youtube.com/@3blue1brown>
 [Physics Videos by Eugene Khutoryansky]: <https://www.youtube.com/@EugeneKhutoryansky/featured>
+[Murat Karakaya Akademi]: <https://www.youtube.com/@MuratKarakayaAkademi>
+
