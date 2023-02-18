@@ -71,6 +71,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Machine Learning for Factor Investing]
 - [Ensemble learning for time series forecasting in R]
 - [Time Series Analysis of PM 2.5 Content in Beijing]
+- [Forecasting: Principles and Practice 2nd Ed.]
 
 ### Türkçe Ders Videoları
 - [BMDerslerim]
@@ -246,5 +247,5 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Developing Forecast Models from Time-Series Data in MATLAB]: <https://www.mathworks.com/videos/developing-forecast-models-from-time-series-data-in-matlab-part-1-93067.html>
 [Ensemble learning for time series forecasting in R]: <https://petolau.github.io/Ensemble-of-trees-for-forecasting-time-series/>
 [Time Series Analysis of PM 2.5 Content in Beijing]: <https://github.com/josephsdavid/ChinesePM/tree/f449edc75b1e3fe022ed54d6625598b3a9455592>
-
+[Forecasting: Principles and Practice 2nd Ed.]: <https://otexts.com/fpp2/>
 
