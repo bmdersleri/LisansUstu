@@ -89,7 +89,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Ozkan Yilmaz]
 - [Tirendaz Akademi]
 - [Makine Ogrenmesi]
-- 
+- [Mehmet İşcan]
 - 
 
 ### Akademik Hayat
@@ -269,5 +269,5 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Tirendaz Akademi]: <https://www.youtube.com/@TirendazAkademi>
 [Makine Ogrenmesi]: <https://www.youtube.com/@MakineOgrenmesi>
 [BTK Akademi]: <https://www.btkakademi.gov.tr/>
-
+[Mehmet İşcan]: <https://www.youtube.com/@memo8301>
 
