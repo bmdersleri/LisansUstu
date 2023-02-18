@@ -79,6 +79,12 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - 
 
 
+### Zaman Serisi Analizleri
+- [Stock Price Prediction using LSTM, FBProphet and ARIMA Model]
+- 
+
+
+//-------------------------------
 
 [Rob Mulla]: <https://www.youtube.com/@robmulla>
 [Visually Explained]: <https://www.youtube.com/c/BachirElKhadir/videos>
@@ -127,7 +133,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 
 
 
-
+[Stock Price Prediction using LSTM, FBProphet and ARIMA Model]: <https://github.com/AjayKumar1994/Stock-Price-Prediction-LSTM-FBProphet-ARIMA>
 
 
 
