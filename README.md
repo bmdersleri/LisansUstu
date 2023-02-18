@@ -82,6 +82,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 ### Zaman Serisi Analizleri
 - [Stock Price Prediction using LSTM, FBProphet and ARIMA Model]
 - [Multivariate Imputation by Chained Equations]
+- [Machine Learning For Finance]
+- [BRITS: Bidirectional Recurrent Imputation for Time Series]
 - 
 
 
@@ -136,6 +138,10 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 
 [Stock Price Prediction using LSTM, FBProphet and ARIMA Model]: <https://github.com/AjayKumar1994/Stock-Price-Prediction-LSTM-FBProphet-ARIMA>
 [Multivariate Imputation by Chained Equations]: <https://github.com/amices/mice>
+[Machine Learning For Finance]: <https://github.com/anthonyng2/Machine-Learning-For-Finance>
+[BRITS: Bidirectional Recurrent Imputation for Time Series]: <https://github.com/caow13/BRITS>
+
+
 
 
 
