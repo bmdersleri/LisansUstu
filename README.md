@@ -48,7 +48,9 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Time series forecasting - with deep learning]
 - [An introduction to weather forecasting with deep learning]
 - [Time Series Forecasting with Recurrent Neural Networks]
-- 
+- [Time Series Analysis using R: Tutorial]
+
+
 
 
 ### Türkçe Ders Videoları
@@ -174,5 +176,6 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [An introduction to weather forecasting with deep learning]: <https://blogs.rstudio.com/ai/posts/2020-09-01-weather-prediction/>
 [Time Series Forecasting with Recurrent Neural Networks]: <https://blogs.rstudio.com/ai/posts/2017-12-20-time-series-forecasting-with-recurrent-neural-networks/>
 [Sosyal Bilimler R Platformu]: <https://bookdown.org/burak2358/SARP-TR/>
+[Time Series Analysis using R: Tutorial]: <https://www.datacamp.com/tutorial/time-series-r>
 
 
