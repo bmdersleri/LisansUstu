@@ -21,6 +21,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Tübingen Machine Learning]
 - [Shusen Wang]
 - [Halfling Wizard]
+- [The AI Guy]
 - 
 
 
@@ -87,6 +88,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [DMK Data]: <https://www.youtube.com/@dmkdata/videos>
 [Holosen]: <https://www.youtube.com/@Holosen>
 [malumath]: <https://www.youtube.com/@malumath/videos>
+[The AI Guy]:<https://www.youtube.com/@TheAIGuy>
 
 
 
