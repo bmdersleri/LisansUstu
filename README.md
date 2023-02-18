@@ -46,6 +46,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Interest Rate Times Series Forecast Using LSTM Neural Network]
 - [Time series forecasting - with deep learning]
 - [An introduction to weather forecasting with deep learning]
+- [Time Series Forecasting with Recurrent Neural Networks]
 - 
 
 
@@ -170,4 +171,6 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Interest Rate Times Series Forecast Using LSTM Neural Network]: <https://rpubs.com/jwcb1025/int_rate_lstm>
 [Time series forecasting - with deep learning]: <https://rpubs.com/zkajdan/279967>
 [An introduction to weather forecasting with deep learning]: <https://blogs.rstudio.com/ai/posts/2020-09-01-weather-prediction/>
+[Time Series Forecasting with Recurrent Neural Networks]: <https://blogs.rstudio.com/ai/posts/2017-12-20-time-series-forecasting-with-recurrent-neural-networks/>
+
 
