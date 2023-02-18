@@ -86,6 +86,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [malumath]
 - [çağatay odabaşı]
 - [Ozkan Yilmaz]
+- [Tirendaz Akademi]
 - 
 
 ### Akademik Hayat
@@ -262,4 +263,5 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Murat Karakaya Akademi]: <https://www.youtube.com/@MuratKarakayaAkademi>
 [Şadi Evren Şeker]: <https://www.youtube.com/@Sadievrenseker_BK>
 [Ozkan Yilmaz]: <https://www.youtube.com/@OzkanYilmaz>
+[Tirendaz Akademi]: <https://www.youtube.com/@TirendazAkademi>
 
