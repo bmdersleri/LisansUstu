@@ -49,6 +49,9 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [An introduction to weather forecasting with deep learning]
 - [Time Series Forecasting with Recurrent Neural Networks]
 - [Time Series Analysis using R: Tutorial]
+- [Time Series Deep Learning: Forecasting Sunspots With Keras Stateful LSTM In R]
+- []
+- 
 
 
 
@@ -177,5 +180,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Time Series Forecasting with Recurrent Neural Networks]: <https://blogs.rstudio.com/ai/posts/2017-12-20-time-series-forecasting-with-recurrent-neural-networks/>
 [Sosyal Bilimler R Platformu]: <https://bookdown.org/burak2358/SARP-TR/>
 [Time Series Analysis using R: Tutorial]: <https://www.datacamp.com/tutorial/time-series-r>
+[Time Series Deep Learning: Forecasting Sunspots With Keras Stateful LSTM In R]: <https://www.r-bloggers.com/2018/04/time-series-deep-learning-forecasting-sunspots-with-keras-stateful-lstm-in-r/>
+
 
 
