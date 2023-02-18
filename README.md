@@ -5,11 +5,11 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 
 
 
-[Visually Explained] -> Çeşitli matemetiksel yaklaşımların görselleştirildiği vildeolar \n
-Edureka!           https://www.youtube.com/@edurekaIN              -> Yapay zeka algoritma videoları\n
-Patric Loeber      https://www.youtube.com/@patloeber              -> Python ve makine öğrenmesi kursları\n
-DigitalSreeni      https://www.youtube.com/@DigitalSreeni          -> Python ve makine öğrenmesi kursları\n
-[Rob Mulla]      -> Python ve makine öğrenmesi kursları\n
+- [Visually Explained] -> Çeşitli matemetiksel yaklaşımların görselleştirildiği vildeolar \n
+- [Edureka!]           -> Yapay zeka algoritma videoları\n
+- [Patric Loeber]                   -> Python ve makine öğrenmesi kursları\n
+- DigitalSreeni      https://www.youtube.com/@DigitalSreeni          -> Python ve makine öğrenmesi kursları\n
+- [Rob Mulla]      -> Python ve makine öğrenmesi kursları\n
 
 
 
@@ -19,3 +19,5 @@ DigitalSreeni      https://www.youtube.com/@DigitalSreeni          -> Python ve 
 
 [Rob Mulla]: <https://www.youtube.com/@robmulla>
 [Visually Explained]: <https://www.youtube.com/c/BachirElKhadir/videos>
+[Edureka!]:<https://www.youtube.com/@edurekaIN>
+[Patric Loeber]:<https://www.youtube.com/@patloeber >
