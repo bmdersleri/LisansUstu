@@ -147,6 +147,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 ### İngilizce Ders Videoları
 - [Benim Hocam]
 
+![r2](prop_vs_thesis.png)
 
 
 
