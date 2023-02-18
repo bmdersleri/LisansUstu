@@ -14,7 +14,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [DigitalSreeni]
 - [Rob Mulla]    
 - [Edureka!]
-
+- [Greg Hogg]
 
 
 
@@ -26,3 +26,5 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Edureka!]:<https://www.youtube.com/@edurekaIN>
 [Patric Loeber]:<https://www.youtube.com/@patloeber >
 [DigitalSreeni]:<https://www.youtube.com/@DigitalSreeni>
+[Greg Hogg]:<https://www.youtube.com/@GregHogg>
+
