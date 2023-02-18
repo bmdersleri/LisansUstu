@@ -3,9 +3,9 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 
 ![Acilis Resmi](https://github.com/bmdersleri/LisansUstu/blob/main/her_is_zor_baslar.jpeg)
 
-![youtube](youtube.png)
 
 ## Faydalı Youtube Kanalları
+![youtube](youtube.png)
 
 ### Türkçe Ders Videoları
 - [BMDerslerim]
