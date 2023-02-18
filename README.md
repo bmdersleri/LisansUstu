@@ -138,6 +138,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [A Gentle Introduction to Autocorrelation and Partial Autocorrelation]
 - [A Gentle Introduction to Handling a Non-Stationary Time Series in Python]
 - [Deep Learning Models for Univariate Time Series Forecasting]
+- [Developing Forecast Models from Time-Series Data in MATLAB]
 
 
 //-------------------------------
@@ -239,5 +240,5 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Hands-On Machine Learning with R]: <https://bradleyboehmke.github.io/HOML/>
 [Machine Learning for Factor Investing]: <http://www.mlfactor.com/index.html>
 [Deep Learning Models for Univariate Time Series Forecasting]: <https://machinelearningmastery.com/how-to-develop-deep-learning-models-for-univariate-time-series-forecasting/>
-
+[Developing Forecast Models from Time-Series Data in MATLAB]: <https://www.mathworks.com/videos/developing-forecast-models-from-time-series-data-in-matlab-part-1-93067.html>
 
