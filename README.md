@@ -35,7 +35,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Dr. Bharatendra Rai]
 - [AIEngineering]
 - [ritvikmath]
-- 
+- [A Complete Tutorial to learn Data Science in R from Scratch]
 - 
 
 ### Yapay Zeka Uygulamaları
@@ -228,4 +228,4 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [ritvikmath]: <https://www.youtube.com/@ritvikmath>
 [Doing Meta-Analysis in R]: <https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/discovering-R.html#data-prep-R>
 [A Complete Tutorial on Time Series Modeling in R]: <https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/>
-
+[A Complete Tutorial to learn Data Science in R from Scratch]: <https://www.analyticsvidhya.com/blog/2016/02/complete-tutorial-learn-data-science-scratch/>
