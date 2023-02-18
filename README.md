@@ -1,6 +1,7 @@
 # Lisans Üstü Öğrencileri Çalışma Grubu
 Lisanüstü çalışmalar için yol gösterici kaynaklar...
 
+![](her_is_zor_baslar.png)
 
 ## Mutlaka okumanız gereken 2 yazı 
 1. [IMRAD prensipleri]
@@ -12,7 +13,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [Mendeley](https://www.mendeley.com/)
 - [Mendeley Dersleri 1](https://www.youtube.com/watch?v=mWI2AQmnGlY&ab_channel=SelmanAlmis) [2](https://www.youtube.com/watch?v=5Bkqgigr_Tc&ab_channel=Abdurrahman%C3%87am) [3](https://www.youtube.com/watch?v=Yz_J3Z4sqQE&ab_channel=Dr.Cengiz%C3%96LMEZ)
 
-![Acilis Resmi](her_is_zor_baslar.png)
+
 
 
 ## Faydalı Youtube Kanalları
