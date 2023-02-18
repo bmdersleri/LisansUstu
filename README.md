@@ -1,8 +1,14 @@
-# LisansUstu
-Lisanüstü çalışmalar için yol gösterici kaynaklar
+# Lisans Üstü Öğrencileri Çalışma Grubu
+Lisanüstü çalışmalar için yol gösterici kaynaklar...
+
 
 Mutlaka okumanız gereken 2 yazı [IMRAD prensipleri] ve [Akademik Yazım ve Arastırmacılara Öneriler]
 
+### Referans Düzenleme Yazılımları
+- [Zotero]
+- [Zotero Kullanımı]: <>
+- Mendeley
+- 
 
 ![Acilis Resmi](her_is_zor_baslar.png)
 
@@ -265,3 +271,4 @@ Mutlaka okumanız gereken 2 yazı [IMRAD prensipleri] ve [Akademik Yazım ve Ara
 [Mehmet İşcan]: <https://www.youtube.com/@memo8301>
 [IMRAD prensipleri]: <https://github.com/bmdersleri/LisansUstu/blob/main/Bilimsel%20Yay%C4%B1n%20Haz%C4%B1rlama%20Teknikleri-%20I%CC%87MRAD.pdf>
 [Akademik Yazım ve Arastırmacılara Öneriler]: <https://github.com/bmdersleri/Zaman-Serileri/blob/main/akademikYazimveArastirmacilaraOneriler.pdf>
+[Zotero]: <http://www.zotero.org>
