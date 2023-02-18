@@ -83,6 +83,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 
 
 ### Zaman Serisi Analizleri
+- [How to Develop LSTM Models for Time Series Forecasting]
 - [Stock Price Prediction using LSTM, FBProphet and ARIMA Model]
 - [Multivariate Imputation by Chained Equations]
 - [Machine Learning For Finance]
@@ -140,6 +141,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 
 [MarinStatsLectures-R Programming & Statistics]: <https://www.youtube.com/@marinstatlectures>
 
+[How to Develop LSTM Models for Time Series Forecasting]: <https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/#:~:text=Multi%2DStep%20Output.-,Univariate%20LSTM%20Models,next%20value%20in%20the%20sequence.>
 [Stock Price Prediction using LSTM, FBProphet and ARIMA Model]: <https://github.com/AjayKumar1994/Stock-Price-Prediction-LSTM-FBProphet-ARIMA>
 [Multivariate Imputation by Chained Equations]: <https://github.com/amices/mice>
 [Machine Learning For Finance]: <https://github.com/anthonyng2/Machine-Learning-For-Finance>
