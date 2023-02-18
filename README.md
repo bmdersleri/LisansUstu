@@ -59,7 +59,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Time Series Deep Learning: Forecasting Sunspots With Keras Stateful LSTM In R]
 - [Time Series Forecasting using LSTM in R]
 - [Using R for Time Series Analysis]
-- 
+- [Introduction of Panel Data]
 - 
 
 ### Türkçe Ders Videoları
@@ -212,6 +212,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Dr. Bharatendra Rai]: <https://www.youtube.com/@bkrai>
 [Solving Optimization Problems]: <https://www.youtube.com/channel/UCNmyH0k1SpFOCIKKncS87cg>
 [AIEngineering]: <https://www.youtube.com/@AIEngineeringLife>
+[Introduction of Panel Data]: <https://www.youtube.com/watch?v=abGKu3kR0xI&list=PLBVaRzQdsqEq1xIJRDVgMBBobEN5NG7bv&ab_channel=MikleshYadav>
 
 
 
