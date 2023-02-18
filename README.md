@@ -1,7 +1,7 @@
 # LisansUstu
 Lisanüstü çalışmalar için yol gösterici kaynaklar
 
-Mutlaka okumanız gereken makale: [IMRAD prensipleri] 
+Mutlaka okumanız gereken 2 yazı [IMRAD prensipleri] ve [Akademik Yazım ve Arastırmacılara Öneriler]
 
 
 ![Acilis Resmi](her_is_zor_baslar.png)
@@ -264,3 +264,4 @@ Mutlaka okumanız gereken makale: [IMRAD prensipleri]
 [BTK Akademi]: <https://www.btkakademi.gov.tr/>
 [Mehmet İşcan]: <https://www.youtube.com/@memo8301>
 [IMRAD prensipleri]: <https://github.com/bmdersleri/LisansUstu/blob/main/Bilimsel%20Yay%C4%B1n%20Haz%C4%B1rlama%20Teknikleri-%20I%CC%87MRAD.pdf>
+[Akademik Yazım ve Arastırmacılara Öneriler]: <https://github.com/bmdersleri/Zaman-Serileri/blob/main/akademikYazimveArastirmacilaraOneriler.pdf>
