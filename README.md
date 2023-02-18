@@ -35,6 +35,9 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 ### Yapay Zeka Uygulamaları
 - [Yapay Zeka İle Hisse Analizi]
 
+### İstatistik dersleri ve uygulamaları
+- [MarinStatsLectures-R Programming & Statistics]
+
 
 ### Türkçe Ders Videoları
 - [BMDerslerim]
@@ -135,9 +138,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Connor Shorten]: <https://www.youtube.com/@connorshorten6311>
 [Oğuz Ergin]: <https://www.youtube.com/@oguz_ergin>
 
-
-
-
+[MarinStatsLectures-R Programming & Statistics]: <https://www.youtube.com/@marinstatlectures>
 
 [Stock Price Prediction using LSTM, FBProphet and ARIMA Model]: <https://github.com/AjayKumar1994/Stock-Price-Prediction-LSTM-FBProphet-ARIMA>
 [Multivariate Imputation by Chained Equations]: <https://github.com/amices/mice>
@@ -145,9 +146,6 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [BRITS: Bidirectional Recurrent Imputation for Time Series]: <https://github.com/caow13/BRITS>
 [Financial Machine Learning]: <https://github.com/firmai/financial-machine-learning>
 [Correlation Prediction with ARIMA-LSTM Hybrid Model]: <https://github.com/imhgchoi/ARIMA-LSTM-hybrid-corrcoef-predict>
-
-
-
 [Stock Price Prediction of Apple Inc. Using Recurrent Neural Network]: <https://github.com/NourozR/Stock-Price-Prediction-LSTM>
 
 
