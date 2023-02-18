@@ -43,6 +43,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [r-statistics.co]
 - [R - Multiple Regression]
 - [R Üzerinde Zaman Serisi Analizi]
+- [Interest Rate Times Series Forecast Using LSTM Neural Network]
+- 
 
 
 ### Türkçe Ders Videoları
@@ -163,4 +165,5 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [r-statistics.co]: <http://r-statistics.co/>
 [R - Multiple Regression]: <https://www.tutorialspoint.com/r/r_multiple_regression.htm>
 [R Üzerinde Zaman Serisi Analizi]: <https://ravenfo.com/2018/12/24/r-uzerinde-zaman-serisi-analizi-bolum-1-zaman-serisi-regresyonu/>
+[Interest Rate Times Series Forecast Using LSTM Neural Network]: <https://rpubs.com/jwcb1025/int_rate_lstm>
 
