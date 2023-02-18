@@ -28,7 +28,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Aladdin Persson]
 - [Machine Learning Interview]
 - [mildlyoverfitted]
-- 
+- [Connor Shorten]
 
 ### Yapay Zeka Uygulamaları
 - [Yapay Zeka İle Hisse Analizi]
@@ -116,6 +116,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Animagraffs]: <https://www.youtube.com/@animagraffs>
 [Machine Learning Interview]: <https://www.youtube.com/@machinelearninginterview4023>
 [mildlyoverfitted]: <https://www.youtube.com/@mildlyoverfitted>
+[Connor Shorten]: <https://www.youtube.com/@connorshorten6311>
+
 
 
 
