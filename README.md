@@ -91,6 +91,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Financial Machine Learning]
 - [Correlation Prediction with ARIMA-LSTM Hybrid Model]
 - [Stock Price Prediction of Apple Inc. Using Recurrent Neural Network]
+- [Hybrid ARIMA-LSTM model]
 - 
 
 
@@ -149,6 +150,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Financial Machine Learning]: <https://github.com/firmai/financial-machine-learning>
 [Correlation Prediction with ARIMA-LSTM Hybrid Model]: <https://github.com/imhgchoi/ARIMA-LSTM-hybrid-corrcoef-predict>
 [Stock Price Prediction of Apple Inc. Using Recurrent Neural Network]: <https://github.com/NourozR/Stock-Price-Prediction-LSTM>
+[Hybrid ARIMA-LSTM model]: <https://github.com/cnaimo/hybrid-ARIMA-LSTM-model>
+
 
 
 
