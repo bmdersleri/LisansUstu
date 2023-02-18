@@ -16,6 +16,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Edureka!]
 - [Greg Hogg]
 - [Venelin Valkov]
+- [pyData]
 
 
 ### Türkçe Ders Videoları
@@ -34,3 +35,4 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [BMDerslerim]: <https://www.youtube.com/bmderslerim>
 [Caner Erden]: <https://www.youtube.com/@CanerErden>
 [Venelin Valkov]:<https://www.youtube.com/@venelin_valkov>
+[pyData]:<https://www.youtube.com/@PyDataTV>
