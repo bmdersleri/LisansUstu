@@ -2,7 +2,9 @@
 Lisanüstü çalışmalar için yol gösterici kaynaklar...
 
 
-## Mutlaka okumanız gereken 2 yazı [IMRAD prensipleri] ve [Akademik Yazım ve Arastırmacılara Öneriler]
+## Mutlaka okumanız gereken 2 yazı 
+1. [IMRAD prensipleri]
+2. [Akademik Yazım ve Arastırmacılara Öneriler]
 
 ### Referans Düzenleme Yazılımları
 - [Zotero]
