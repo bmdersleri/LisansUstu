@@ -24,16 +24,18 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 ### Türkçe Ders Videoları
 - [BMDerslerim]
 - [Caner Erden]
-- 
+- [Dr. Erkan AĞASLAN]
 
 ### Programlama
 - [Engin Demiroğ]
 - [Dali n Code]
+- [Fox Learn]
 - 
 
 
 ### Elektronik
 - [EETechStuff]
+- [Shawn Hymel]
 - 
 
 
@@ -53,3 +55,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [EETechStuff]:<https://www.youtube.com/@EETechStuff>
 [Engin Demiroğ]:<https://www.youtube.com/@engindemirog2946>
 [Dali n Code]:<https://www.youtube.com/@kesali>
+[Shawn Hymel]:<https://www.youtube.com/@ShawnHymel>
+[Fox Learn]:<https://www.youtube.com/@foxlearn>
+[Dr. Erkan AĞASLAN]:<https://www.youtube.com/@DrErkanAGASLAN>
+
