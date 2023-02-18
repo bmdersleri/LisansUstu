@@ -41,6 +41,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Jamovi]
 - [LSTM TIME SERIES PREDICTION IN R]
 - [r-statistics.co]
+- [R - Multiple Regression]
 
 
 ### Türkçe Ders Videoları
@@ -159,4 +160,6 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Jamovi]: <https://datalab.cc/jamovi/>
 [LSTM TIME SERIES PREDICTION IN R]: <http://datasideoflife.com/?p=1171>
 [r-statistics.co]: <http://r-statistics.co/>
+[R - Multiple Regression]: <https://www.tutorialspoint.com/r/r_multiple_regression.htm>
+
 
