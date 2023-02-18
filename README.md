@@ -62,6 +62,10 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 ### Elektronik
 - [EETechStuff]
 - [Shawn Hymel]
+
+
+### İngilizce Ders Videoları
+- [Benim Hocam]
 - 
 
 
@@ -101,6 +105,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Practical Engineering]: <https://www.youtube.com/@PracticalEngineeringChannel>
 [çağatay odabaşı]: <https://www.youtube.com/@cagatayodabasi>
 [Aladdin Persson]: <https://www.youtube.com/@AladdinPersson>
+[Benim Hocam]: <https://www.youtube.com/watch?v=co6aMiWFR6k&list=PLHZykYpdC0G6ex1LLbeAMXd2EQwIurPqf&ab_channel=BenimHocam>
+
 
 
 
