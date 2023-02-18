@@ -57,6 +57,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Simply Explained]
 - [Holosen]
 - [Practical Engineering]
+- [Animagraffs]
 - 
 
 ### Sinyal İşleme
@@ -110,6 +111,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Aladdin Persson]: <https://www.youtube.com/@AladdinPersson>
 [Benim Hocam]: <https://www.youtube.com/watch?v=co6aMiWFR6k&list=PLHZykYpdC0G6ex1LLbeAMXd2EQwIurPqf&ab_channel=BenimHocam>
 [Yapay Zeka İle Hisse Analizi]: <https://www.youtube.com/@yapayzekahisse/videos>
+[Animagraffs]: <https://www.youtube.com/@animagraffs>
+
 
 
 
