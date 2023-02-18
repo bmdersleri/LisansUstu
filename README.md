@@ -20,6 +20,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [StatQuest with Josh Starmer]
 - [Tübingen Machine Learning]
 - [Shusen Wang]
+- [Halfling Wizard]
+- 
 
 
 ### Türkçe Ders Videoları
@@ -74,6 +76,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [JamesQQuick]:<https://www.youtube.com/@JamesQQuick>
 [Tübingen Machine Learning]:<https://www.youtube.com/@TubingenML>
 [Shusen Wang]: <https://www.youtube.com/@ShusenWangEng>
+[Halfling Wizard]: <https://www.youtube.com/@HalflingWizard>
 
 
 
