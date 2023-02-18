@@ -114,6 +114,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Understanding LSTM Networks]
 - [Applied Time Series]
 - [Time Series Forecasting Using Python]
+- [Complete Guide on Time Series Analysis in Python]
+- 
 - 
 
 
@@ -195,4 +197,4 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Zaman Serisi Nedir? R ile Zaman Serisi Analizine Giriş]: <https://productphilosophy.com/zaman-serisi-analizi/>
 [A Gentle Introduction to Time Series Analysis & Forecasting]: <https://wandb.ai/iamleonie/A-Gentle-Introduction-to-Time-Series-Analysis-Forecasting/reports/A-Gentle-Introduction-to-Time-Series-Analysis-Forecasting--VmlldzoyNjkxOTMz>
 [Time Series Forecasting Using Python]: <https://www.analyticsvidhya.com/blog/2022/06/time-series-forecasting-using-python/>
-
+[Complete Guide on Time Series Analysis in Python]: <https://www.kaggle.com/code/prashant111/complete-guide-on-time-series-analysis-in-python>
