@@ -36,6 +36,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Yapay Zeka İle Hisse Analizi]
 
 ### İstatistik dersleri ve R uygulamaları
+- [Sosyal Bilimler R Platformu]
 - [MarinStatsLectures-R Programming & Statistics]
 - [Introduction to Econometrics with R]
 - [Jamovi]
@@ -172,5 +173,6 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Time series forecasting - with deep learning]: <https://rpubs.com/zkajdan/279967>
 [An introduction to weather forecasting with deep learning]: <https://blogs.rstudio.com/ai/posts/2020-09-01-weather-prediction/>
 [Time Series Forecasting with Recurrent Neural Networks]: <https://blogs.rstudio.com/ai/posts/2017-12-20-time-series-forecasting-with-recurrent-neural-networks/>
+[Sosyal Bilimler R Platformu]: <https://bookdown.org/burak2358/SARP-TR/>
 
 
