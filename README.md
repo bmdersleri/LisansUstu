@@ -6,7 +6,7 @@ Mutlaka okumanız gereken 2 yazı [IMRAD prensipleri] ve [Akademik Yazım ve Ara
 
 ### Referans Düzenleme Yazılımları
 - [Zotero]
-- [Zotero Kullanımı]: <>
+- [Zotero Kullanımı]
 - Mendeley
 - 
 
@@ -272,3 +272,4 @@ Mutlaka okumanız gereken 2 yazı [IMRAD prensipleri] ve [Akademik Yazım ve Ara
 [IMRAD prensipleri]: <https://github.com/bmdersleri/LisansUstu/blob/main/Bilimsel%20Yay%C4%B1n%20Haz%C4%B1rlama%20Teknikleri-%20I%CC%87MRAD.pdf>
 [Akademik Yazım ve Arastırmacılara Öneriler]: <https://github.com/bmdersleri/Zaman-Serileri/blob/main/akademikYazimveArastirmacilaraOneriler.pdf>
 [Zotero]: <http://www.zotero.org>
+[Zotero Kullanımı]: <https://www.youtube.com/watch?v=6fVN6FGcReE&list=PLty-xcfaLVH5UQGSDyW_TaeEKfViNvVS7&ab_channel=Celal%C3%96ney>
