@@ -19,6 +19,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [pyData]
 - [StatQuest with Josh Starmer]
 - [Tübingen Machine Learning]
+- [Shusen Wang]
 
 
 ### Türkçe Ders Videoları
@@ -72,5 +73,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Simply Explained]:<https://www.youtube.com/@simplyexplained>
 [JamesQQuick]:<https://www.youtube.com/@JamesQQuick>
 [Tübingen Machine Learning]:<https://www.youtube.com/@TubingenML>
+[Shusen Wang]: <https://www.youtube.com/@ShusenWangEng>
+
 
 
