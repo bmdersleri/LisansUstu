@@ -80,7 +80,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 
 ### Türkçe Ders Videoları
 - [BMDerslerim]
-- [Şadi Evren Şeker]: <https://www.youtube.com/@Sadievrenseker_BK>
+- [Şadi Evren Şeker]
 - [Caner Erden]
 - [Dr. Erkan AĞASLAN]
 - [malumath]
