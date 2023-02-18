@@ -1,7 +1,7 @@
 # LisansUstu
 Lisanüstü çalışmalar için yol gösterici kaynaklar
 
-[![Build Status](https://github.com/bmdersleri/LisansUstu/blob/main/her_is_zor_baslar.jpeg)](https://travis-ci.org/joemccann/dillinger)
+[![Acilis Resmi](https://github.com/bmdersleri/LisansUstu/blob/main/her_is_zor_baslar.jpeg)]
 
 ## Faydalı Youtube Kanalları
 
