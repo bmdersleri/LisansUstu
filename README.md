@@ -111,7 +111,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Fox Learn]
 - [JamesQQuick]
 - [DMK Data]
-- 
+
 
 ### Optimizasyon problemlerinin çözümü
 - [Solving Optimization Problems]
