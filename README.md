@@ -33,6 +33,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Caner Erden]
 - [Dr. Erkan AĞASLAN]
 - [malumath]
+- [çağatay odabaşı]
 - 
 
 ### Akademik Hayat
@@ -51,6 +52,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 ### Bilimsel Açıklama Videoları
 - [Simply Explained]
 - [Holosen]
+- [Practical Engineering]
 - 
 
 ### Sinyal İşleme
@@ -95,6 +97,9 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [TheCodingBug]: <https://www.youtube.com/@TheCodingBug>
 [DeepLearning004]: <https://www.youtube.com/@DeepLearning004>
 [Machine Learning University]: <https://www.youtube.com/@machinelearninguniversity1942/videos>
+[Practical Engineering]: <https://www.youtube.com/@PracticalEngineeringChannel>
+[çağatay odabaşı]: <https://www.youtube.com/@cagatayodabasi>
+
 
 
 
