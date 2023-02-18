@@ -43,6 +43,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 ### İstatistik dersleri ve R uygulamaları
 - [Sosyal Bilimler R Platformu]
 - [Zaman Serisi Nedir? R ile Zaman Serisi Analizine Giriş]
+- [R ile Zaman Serileri Analizi]
 - [A Gentle Introduction to Time Series Analysis & Forecasting]
 - [MarinStatsLectures-R Programming & Statistics]
 - [Introduction to Econometrics with R]
@@ -213,6 +214,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Solving Optimization Problems]: <https://www.youtube.com/channel/UCNmyH0k1SpFOCIKKncS87cg>
 [AIEngineering]: <https://www.youtube.com/@AIEngineeringLife>
 [Introduction of Panel Data]: <https://www.youtube.com/watch?v=abGKu3kR0xI&list=PLBVaRzQdsqEq1xIJRDVgMBBobEN5NG7bv&ab_channel=MikleshYadav>
+[R ile Zaman Serileri Analizi]: <https://www.youtube.com/watch?v=4TqNAvL1EbM&ab_channel=RLadiesAnkara>
 
 
 
