@@ -10,6 +10,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 
 - [Visually Explained]
 - [3 blue 1 brown]
+- [Physics Videos by Eugene Khutoryansky]
 - 
 
 
@@ -253,4 +254,4 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Forecasting: Principles and Practice 2nd Ed.]: <https://otexts.com/fpp2/>
 [AkademikLink]: <https://www.youtube.com/@akademiklink>
 [3 blue 1 brown]: <https://www.youtube.com/@3blue1brown>
-
+[Physics Videos by Eugene Khutoryansky]: <https://www.youtube.com/@EugeneKhutoryansky/featured>
