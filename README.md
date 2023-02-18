@@ -37,6 +37,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Fox Learn]
 - 
 
+### Bilimsel Açıklama Videoları
+- [Simply Explained]:<https://www.youtube.com/@simplyexplained>
 
 
 
