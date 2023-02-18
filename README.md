@@ -18,7 +18,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Venelin Valkov]
 - [pyData]
 - [StatQuest with Josh Starmer]
-- 
+- [Tübingen Machine Learning]
 
 
 ### Türkçe Ders Videoları
@@ -71,4 +71,6 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Metin Aytekin]: <https://www.youtube.com/@metinaytekin>
 [Simply Explained]:<https://www.youtube.com/@simplyexplained>
 [JamesQQuick]:<https://www.youtube.com/@JamesQQuick>
+[Tübingen Machine Learning]:<https://www.youtube.com/@TubingenML>
+
 
