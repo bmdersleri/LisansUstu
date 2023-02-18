@@ -17,7 +17,10 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Greg Hogg]
 
 
-
+### Türkçe Ders Videoları
+- [BMDerslerim]
+- [Caner Erden]
+- 
 
 
 
@@ -27,4 +30,5 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Patric Loeber]:<https://www.youtube.com/@patloeber >
 [DigitalSreeni]:<https://www.youtube.com/@DigitalSreeni>
 [Greg Hogg]:<https://www.youtube.com/@GregHogg>
-
+[BMDerslerim]: <<https://www.youtube.com/bmderslerim>
+[Caner Erden]:<https://www.youtube.com/@CanerErden>
