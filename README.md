@@ -43,7 +43,6 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Dr. Bharatendra Rai]
 - [AIEngineering]
 - [ritvikmath]
-- [A Complete Tutorial to learn Data Science in R from Scratch]
 
 ### Yapay Zeka Uygulamaları
 - [Yapay Zeka İle Hisse Analizi]
@@ -104,6 +103,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Ensemble learning for time series forecasting in R]
 - [Time Series Analysis of PM 2.5 Content in Beijing]
 - [Forecasting: Principles and Practice 2nd Ed.]
+- [A Complete Tutorial to learn Data Science in R from Scratch]
 
 ### Programlama
 - [Engin Demiroğ]
