@@ -23,6 +23,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Halfling Wizard]
 - [The AI Guy]
 - [TheCodingBug]
+- [DeepLearning004]
 - 
 
 
@@ -91,6 +92,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [malumath]: <https://www.youtube.com/@malumath/videos>
 [The AI Guy]:<https://www.youtube.com/@TheAIGuy>
 [TheCodingBug]: <https://www.youtube.com/@TheCodingBug>
+[DeepLearning004]: <https://www.youtube.com/@DeepLearning004>
 
 
 
