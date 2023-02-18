@@ -40,6 +40,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 ### İstatistik dersleri ve R uygulamaları
 - [Sosyal Bilimler R Platformu]
 - [Zaman Serisi Nedir? R ile Zaman Serisi Analizine Giriş]
+- [A Gentle Introduction to Time Series Analysis & Forecasting]
 - [MarinStatsLectures-R Programming & Statistics]
 - [Introduction to Econometrics with R]
 - [Jamovi]
@@ -191,5 +192,5 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Using R for Time Series Analysis]: <https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html>
 [Applied Time Series]: <https://www.youtube.com/watch?v=RJzmHkGWCxs&list=PLEuzmtv9IuT_vg5oE0lQyZR-wgbVeGztt&ab_channel=JustinEloriaga>
 [Zaman Serisi Nedir? R ile Zaman Serisi Analizine Giriş]: <https://productphilosophy.com/zaman-serisi-analizi/>
-
+[A Gentle Introduction to Time Series Analysis & Forecasting]: <https://wandb.ai/iamleonie/A-Gentle-Introduction-to-Time-Series-Analysis-Forecasting/reports/A-Gentle-Introduction-to-Time-Series-Analysis-Forecasting--VmlldzoyNjkxOTMz>
 
