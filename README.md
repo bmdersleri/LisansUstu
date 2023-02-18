@@ -113,6 +113,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Stock Price Prediction of Apple Inc. Using Recurrent Neural Network]
 - [Hybrid ARIMA-LSTM model]
 - [Time Series Forecasting ARIMA vs LSTM-RNN]
+- [Understanding LSTM Networks]
 - 
 
 
@@ -188,5 +189,6 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Time Series Forecasting using LSTM in R]: <http://rwanjohi.rbind.io/2018/04/05/time-series-forecasting-using-lstm-in-r/>
 [Time Series in R]: <https://www.youtube.com/watch?v=QHsmAM6nktY&list=PLCj1LhGni3hOA2q0sfDNKBH9WIlLxXkbn&ab_channel=librarianwomack>
 [Time Series Forecasting ARIMA vs LSTM-RNN]: <https://github.com/Divyatmika28/Time-Series-Forecasting---ARIMA-v-s-LSTM-RNN>
+[Understanding LSTM Networks]: <https://colah.github.io/posts/2015-08-Understanding-LSTMs/>
 
 
