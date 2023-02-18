@@ -28,6 +28,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [BMDerslerim]
 - [Caner Erden]
 - [Dr. Erkan AĞASLAN]
+- [malumath]
+- 
 
 ### Akademik Hayat
 - [Metin Aytekin]
@@ -44,6 +46,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 
 ### Bilimsel Açıklama Videoları
 - [Simply Explained]
+- [Holosen]
+- 
 
 ### Sinyal İşleme
 - [DrBennett]
@@ -81,6 +85,9 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Halfling Wizard]: <https://www.youtube.com/@HalflingWizard>
 [DrBennett]: <https://www.youtube.com/@TheCuzincuz/videos>
 [DMK Data]: <https://www.youtube.com/@dmkdata/videos>
+[Holosen]: <https://www.youtube.com/@Holosen>
+[malumath]: <https://www.youtube.com/@malumath/videos>
+
 
 
 
