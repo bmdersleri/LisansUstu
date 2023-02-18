@@ -9,7 +9,6 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 
 ### Türkçe Ders Videoları
 - [BMDerslerim]
-- [BTK Akademi]
 - [Şadi Evren Şeker]
 - [Caner Erden]
 - [Dr. Erkan AĞASLAN]
@@ -111,6 +110,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [A Complete Tutorial to learn Data Science in R from Scratch]
 
 ### Programlama
+- [BTK Akademi]
 - [Engin Demiroğ]
 - [Dali n Code]
 - [Fox Learn]
