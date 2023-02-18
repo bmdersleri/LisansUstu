@@ -1,7 +1,7 @@
 # LisansUstu
 Lisanüstü çalışmalar için yol gösterici kaynaklar
 
-[![Acilis Resmi](https://github.com/bmdersleri/LisansUstu/blob/main/her_is_zor_baslar.jpeg)]
+![Acilis Resmi](https://github.com/bmdersleri/LisansUstu/blob/main/her_is_zor_baslar.jpeg)
 
 ## Faydalı Youtube Kanalları
 
