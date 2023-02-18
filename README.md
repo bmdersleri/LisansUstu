@@ -78,6 +78,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Time Series Anomaly Detection with LSTM Autoencoders using Keras & TensorFlow 2 in Python]
 
 ### İstatistik dersleri ve R uygulamaları
+![r](r.png)
 - [Sosyal Bilimler R Platformu]
 - [Zaman Serisi Nedir? R ile Zaman Serisi Analizine Giriş]
 - [R ile Zaman Serileri Analizi]
