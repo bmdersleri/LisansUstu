@@ -27,6 +27,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Machine Learning University]
 - [Aladdin Persson]
 - [Machine Learning Interview]
+- [mildlyoverfitted]
 - 
 
 ### Yapay Zeka Uygulamaları
@@ -114,6 +115,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Yapay Zeka İle Hisse Analizi]: <https://www.youtube.com/@yapayzekahisse/videos>
 [Animagraffs]: <https://www.youtube.com/@animagraffs>
 [Machine Learning Interview]: <https://www.youtube.com/@machinelearninginterview4023>
+[mildlyoverfitted]: <https://www.youtube.com/@mildlyoverfitted>
 
 
 
