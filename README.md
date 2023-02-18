@@ -28,6 +28,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 
 ### Programlama
 - [Engin Demiroğ]
+- [Dali n Code]
+- 
 
 
 ### Elektronik
@@ -50,3 +52,4 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 
 [EETechStuff]:<https://www.youtube.com/@EETechStuff>
 [Engin Demiroğ]:<https://www.youtube.com/@engindemirog2946>
+[Dali n Code]:<https://www.youtube.com/@kesali>
