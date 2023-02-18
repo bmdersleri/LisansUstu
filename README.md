@@ -32,6 +32,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [mildlyoverfitted]
 - [Connor Shorten]
 - [Time Series in R]
+- [Dr. Bharatendra Rai]
+- 
 - 
 
 ### Yapay Zeka Uygulamaları
@@ -203,4 +205,6 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Darts: Time Series Made Easy in Python]: <https://unit8.com/resources/darts-time-series-made-easy-in-python/>
 [GluonTS - Probabilistic Time Series Modeling in Python]: <https://ts.gluon.ai/stable/>
 [Modern Aspects of Big Time Series Forecasting]: <https://lovvge.github.io/Forecasting-Tutorial-IJCAI-2021/>
+[Dr. Bharatendra Rai]: <https://www.youtube.com/@bkrai>
+
 
