@@ -170,7 +170,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 [Patric Loeber]:<https://www.youtube.com/@patloeber >
 [DigitalSreeni]:<https://www.youtube.com/@DigitalSreeni>
 [Greg Hogg]:<https://www.youtube.com/@GregHogg>
-[BMDerslerim]: <https://www.youtube.com/bmderslerim>
+[BMDerslerim]: <https://www.youtube.com/@bmderslerim>
 [Caner Erden]: <https://www.youtube.com/@CanerErden>
 [Venelin Valkov]:<https://www.youtube.com/@venelin_valkov>
 [pyData]:<https://www.youtube.com/@PyDataTV>
