@@ -57,9 +57,6 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - 
 - 
 
-
-
-
 ### Türkçe Ders Videoları
 - [BMDerslerim]
 - [Caner Erden]
@@ -72,8 +69,6 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Metin Aytekin]
 - [Oğuz Ergin]
 - 
-
-
 
 ### Programlama
 - [Engin Demiroğ]
@@ -115,6 +110,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Hybrid ARIMA-LSTM model]
 - [Time Series Forecasting ARIMA vs LSTM-RNN]
 - [Understanding LSTM Networks]
+- [Applied Time Series]
 - 
 
 
@@ -192,4 +188,5 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Time Series Forecasting ARIMA vs LSTM-RNN]: <https://github.com/Divyatmika28/Time-Series-Forecasting---ARIMA-v-s-LSTM-RNN>
 [Understanding LSTM Networks]: <https://colah.github.io/posts/2015-08-Understanding-LSTMs/>
 [Using R for Time Series Analysis]: <https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html>
+[Applied Time Series]: <https://www.youtube.com/watch?v=RJzmHkGWCxs&list=PLEuzmtv9IuT_vg5oE0lQyZR-wgbVeGztt&ab_channel=JustinEloriaga>
 
