@@ -3,9 +3,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 
 ![Acilis Resmi](https://github.com/bmdersleri/LisansUstu/blob/main/her_is_zor_baslar.jpeg)
 
-3d-youtube-logo-icon-red-color-free-png.webp
-
-![youtube](3d-youtube-logo-icon-red-color-free-png.webp)
+![youtube](502px-Logo_of_YouTube_(2015-2017).svg.webp)
 
 ## Faydalı Youtube Kanalları
 
