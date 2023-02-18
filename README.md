@@ -65,5 +65,5 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Shawn Hymel]:<https://www.youtube.com/@ShawnHymel>
 [Fox Learn]:<https://www.youtube.com/@foxlearn>
 [Dr. Erkan AĞASLAN]:<https://www.youtube.com/@DrErkanAGASLAN>
-[Metin Aytekin] :<https://www.youtube.com/@metinaytekin>
+[Metin Aytekin]: <https://www.youtube.com/@metinaytekin>
 
