@@ -81,6 +81,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 
 ### Zaman Serisi Analizleri
 - [Stock Price Prediction using LSTM, FBProphet and ARIMA Model]
+- [Multivariate Imputation by Chained Equations]
 - 
 
 
@@ -134,6 +135,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 
 
 [Stock Price Prediction using LSTM, FBProphet and ARIMA Model]: <https://github.com/AjayKumar1994/Stock-Price-Prediction-LSTM-FBProphet-ARIMA>
+[Multivariate Imputation by Chained Equations]: <https://github.com/amices/mice>
 
 
 
