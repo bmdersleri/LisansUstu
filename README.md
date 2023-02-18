@@ -33,6 +33,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [Connor Shorten]
 - [Time Series in R]
 - [Dr. Bharatendra Rai]
+- [AIEngineering]
 - 
 - 
 
@@ -210,5 +211,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Modern Aspects of Big Time Series Forecasting]: <https://lovvge.github.io/Forecasting-Tutorial-IJCAI-2021/>
 [Dr. Bharatendra Rai]: <https://www.youtube.com/@bkrai>
 [Solving Optimization Problems]: <https://www.youtube.com/channel/UCNmyH0k1SpFOCIKKncS87cg>
+[AIEngineering]: <https://www.youtube.com/@AIEngineeringLife>
+
+
 
 
