@@ -4,15 +4,16 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 ## Faydalı Youtube Kanalları
 
 
+### Çeşitli matemetiksel yaklaşımların görselleştirildiği videolar 
 
-- [Visually Explained] -> Çeşitli matemetiksel yaklaşımların görselleştirildiği vildeolar 
-- [Edureka!]           -> Yapay zeka algoritma videoları
+- [Visually Explained] 
 
 
-##Python ve makine öğrenmesi kursları
+### Python ve makine öğrenmesi kursları
 - [Patric Loeber]
 - [DigitalSreeni]
 - [Rob Mulla]    
+- [Edureka!]
 
 
 
