@@ -3,7 +3,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 
 ![](her_is_zor_baslar.png)
 
-## Mutlaka okumanız gereken 2 yazı 
+## ✨ Mutlaka okumanız gereken 2 yazı ✨
 1. [IMRAD prensipleri]
 2. [Akademik Yazım ve Arastırmacılara Öneriler]
 
