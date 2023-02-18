@@ -70,6 +70,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [A Complete Tutorial on Time Series Modeling in R]
 - [Machine Learning for Factor Investing]
 - [Ensemble learning for time series forecasting in R]
+- [Time Series Analysis of PM 2.5 Content in Beijing]
 
 ### Türkçe Ders Videoları
 - [BMDerslerim]
@@ -244,5 +245,6 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Deep Learning Models for Univariate Time Series Forecasting]: <https://machinelearningmastery.com/how-to-develop-deep-learning-models-for-univariate-time-series-forecasting/>
 [Developing Forecast Models from Time-Series Data in MATLAB]: <https://www.mathworks.com/videos/developing-forecast-models-from-time-series-data-in-matlab-part-1-93067.html>
 [Ensemble learning for time series forecasting in R]: <https://petolau.github.io/Ensemble-of-trees-for-forecasting-time-series/>
+[Time Series Analysis of PM 2.5 Content in Beijing]: <https://github.com/josephsdavid/ChinesePM/tree/f449edc75b1e3fe022ed54d6625598b3a9455592>
 
 
