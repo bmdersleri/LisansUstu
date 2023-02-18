@@ -42,6 +42,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [LSTM TIME SERIES PREDICTION IN R]
 - [r-statistics.co]
 - [R - Multiple Regression]
+- [R Üzerinde Zaman Serisi Analizi]
 
 
 ### Türkçe Ders Videoları
@@ -161,5 +162,5 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [LSTM TIME SERIES PREDICTION IN R]: <http://datasideoflife.com/?p=1171>
 [r-statistics.co]: <http://r-statistics.co/>
 [R - Multiple Regression]: <https://www.tutorialspoint.com/r/r_multiple_regression.htm>
-
+[R Üzerinde Zaman Serisi Analizi]: <https://ravenfo.com/2018/12/24/r-uzerinde-zaman-serisi-analizi-bolum-1-zaman-serisi-regresyonu/>
 
