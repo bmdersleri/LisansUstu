@@ -80,6 +80,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 
 ### Türkçe Ders Videoları
 - [BMDerslerim]
+- [BTK Akademi]
 - [Şadi Evren Şeker]
 - [Caner Erden]
 - [Dr. Erkan AĞASLAN]
@@ -87,6 +88,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 - [çağatay odabaşı]
 - [Ozkan Yilmaz]
 - [Tirendaz Akademi]
+- [Makine Ogrenmesi]
+- 
 - 
 
 ### Akademik Hayat
@@ -264,4 +267,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar
 [Şadi Evren Şeker]: <https://www.youtube.com/@Sadievrenseker_BK>
 [Ozkan Yilmaz]: <https://www.youtube.com/@OzkanYilmaz>
 [Tirendaz Akademi]: <https://www.youtube.com/@TirendazAkademi>
+[Makine Ogrenmesi]: <https://www.youtube.com/@MakineOgrenmesi>
+[BTK Akademi]: <https://www.btkakademi.gov.tr/>
+
 
