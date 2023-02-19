@@ -32,7 +32,6 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [Quillbot](https://quillbot.com/)
 - [Grammarly](https://grammarly.com)
 
-
 ### Üye olmanız gereken yerler
 - [ResearchGate](https://www.researchgate.net/)
 - [ORCID](https://orcid.org/)
@@ -44,7 +43,6 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [Taylor & Francis](https://www.tandfonline.com/)
 - [Mdpi](https://www.mdpi.com/)
 - [Hindawi](https://www.hindawi.com/)
-
 
 ## Faydalı Youtube Kanalları
 ![youtube](youtube.png)
@@ -193,7 +191,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [Bilim Felsefesi 101](https://www.youtube.com/watch?v=JsiSOaO0q_w&list=PL4itydzTZXnySsCGp9R0NmWd6c7RJjUbS&ab_channel=GelecekBilimde)
 - [Felsefe Etkinlikleri](https://www.youtube.com/watch?v=IH33XJ6u95w&list=PLbZgYxuAwEItZn1jBu0vDtYvMTiQ6u9mo&ab_channel=%C4%B0stanbulTabipOdas%C4%B1)
 - [Felsefe Konuşmaları](https://www.youtube.com/watch?v=Jz0ARYC9XNc&list=PLE_5ZNMPNdyZsCjS4_kXeNmypbyLDPv2A&ab_channel=AntalyaK%C3%BClt%C3%BCrSanat)
-- 
+- [Bilim Akademisi](https://www.youtube.com/watch?v=WAL0HA8TYSI&list=RDQMK_3M0S8Em_E&start_radio=1&ab_channel=BilimAkademisi)
+
 
 ### İngilizce Ders Videoları
 - [Benim Hocam]
@@ -205,6 +204,29 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - 
 
 ![r2](prop_vs_thesis.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
