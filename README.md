@@ -21,12 +21,18 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [Wolframalpha](https://www.wolframalpha.com/)
 - [Science.gov](http://science.gov)
 - [Semantic Scholar](https://www.semanticscholar.org/)
+- [CORE](https://core.ac.uk/)
 
 ### Çeviri ve proofreading hizmetleri
 - [DeepL translator](https://www.deepl.com/translator)
 - [Google Translate](https://translate.google.com/?hl=tr&sl=en&tl=tr&op=translate)
 - [Quillbot](https://quillbot.com/)
 - [Grammarly](https://grammarly.com)
+
+
+### Üye olmanız gereken yerler
+- [ResearchGate](https://www.researchgate.net/)
+- [ORCID](https://orcid.org/)
 
 ## Faydalı Youtube Kanalları
 ![youtube](youtube.png)
