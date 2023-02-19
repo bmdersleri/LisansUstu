@@ -191,6 +191,12 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 
 ### İngilizce Ders Videoları
 - [Benim Hocam]
+- [Eng vid James](https://www.youtube.com/@engvidJames)
+- [English Teacher Emma](https://www.youtube.com/user/EnglishTeacherEmma)
+- [Alex ESL vid](https://www.youtube.com/user/AlexESLvid)
+- [Aksen Kahraman](https://www.youtube.com/@aksenkahraman)
+- [İngilizce Konu Anlatimi](https://www.youtube.com/@ingilizcekonuanlatimi)
+- 
 
 ![r2](prop_vs_thesis.png)
 
