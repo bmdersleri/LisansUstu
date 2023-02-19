@@ -149,6 +149,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [Forecasting: Principles and Practice 2nd Ed.]
 - [A Complete Tutorial to learn Data Science in R from Scratch]
 
+![](coding.png)
 ### Programlama
 - [BTK Akademi]
 - [Engin Demiroğ]
