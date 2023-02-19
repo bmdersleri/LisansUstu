@@ -17,9 +17,10 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [Google scholar](https://scholar.google.com/)
 - 
 
-### Çeviri hizmetleri
+### Çeviri ve proofreading hizmetleri
 - [DeepL translator](https://www.deepl.com/translator)
 - [Google Translate](https://translate.google.com/?hl=tr&sl=en&tl=tr&op=translate)
+- [Quillbot](https://quillbot.com/)
 
 ## Faydalı Youtube Kanalları
 ![youtube](youtube.png)
