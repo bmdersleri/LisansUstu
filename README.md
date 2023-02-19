@@ -37,8 +37,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 
 ### Bilimsel yayın evleri
 - [Web of Science Group](https://mjl.clarivate.com/home)
-- [Elsevier]()
-- [Springer]()
+- [Elsevier](https://www.elsevier.com/tr-tr)
+- [Springer](https://link.springer.com/)
 - [Taylor & Francis](https://www.tandfonline.com/)
 - [Mdpi](https://www.mdpi.com/)
 - [Hindawi](https://www.hindawi.com/)
