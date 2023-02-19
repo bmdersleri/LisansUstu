@@ -17,6 +17,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [Google Scholar](https://scholar.google.com/)
 - [Microsoft Academic](https://academic.microsoft.com/)
 - [Arxiv](https://arxiv.org/)
+- [BASE](https://www.base-search.net/)
 - [Science.gov](http://science.gov)
 - [Semantic Scholar](https://www.semanticscholar.org/)
 
