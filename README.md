@@ -16,6 +16,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 ### Bilimsel Arama Motorları
 - [Google Scholar](https://scholar.google.com/)
 - [Microsoft Academic](https://academic.microsoft.com/)
+- [Science.gov](http://science.gov)
+- [Semantic Scholar](https://www.semanticscholar.org/)
 - 
 - 
 
