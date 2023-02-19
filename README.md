@@ -36,7 +36,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [ResearchGate](https://www.researchgate.net/)
 - [ORCID](https://orcid.org/)
 
-### Bilimsel yayın evleri
+### Bilimsel yayınevleri
 - [Web of Science Group](https://mjl.clarivate.com/home)
 - [Elsevier](https://www.elsevier.com/tr-tr)
 - [Springer](https://link.springer.com/)
@@ -45,7 +45,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [Hindawi](https://www.hindawi.com/)
 
 ## Faydalı Youtube Kanalları
-![youtube](youtube.png)
+![](youtube.png)
 
 ### Türkçe Ders Videoları
 - [BMDerslerim]
