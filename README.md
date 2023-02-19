@@ -22,6 +22,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [Science.gov](http://science.gov)
 - [Semantic Scholar](https://www.semanticscholar.org/)
 - [CORE](https://core.ac.uk/)
+- [Arnetminer](http://www.arnetminer.org/)
 
 ### Çeviri ve proofreading hizmetleri
 - [DeepL translator](https://www.deepl.com/translator)
@@ -33,6 +34,15 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 ### Üye olmanız gereken yerler
 - [ResearchGate](https://www.researchgate.net/)
 - [ORCID](https://orcid.org/)
+
+### Bilimsel yayın evleri
+- [Web of Science Group](https://mjl.clarivate.com/home)
+- [Elsevier]()
+- [Springer]()
+- [Taylor & Francis](https://www.tandfonline.com/)
+- [Mdpi](https://www.mdpi.com/)
+- [Hindawi](https://www.hindawi.com/)
+- 
 
 ## Faydalı Youtube Kanalları
 ![youtube](youtube.png)
