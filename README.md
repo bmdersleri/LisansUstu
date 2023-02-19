@@ -46,7 +46,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [Hindawi](https://www.hindawi.com/)
 
 ## Faydalı Youtube Kanalları
-![](https://github.com/bmdersleri/LisansUstu/blob/main/youtube%20(1).png)
+
 
 ### Türkçe Ders Videoları
 - [BMDerslerim]
