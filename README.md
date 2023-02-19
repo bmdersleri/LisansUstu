@@ -224,7 +224,16 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [Mücadele](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMzA5Mzk0Mi9lcGlzb2Rlcy9mZWVk?sa=X&ved=0CCkQ9sEGahgKEwjotovam6H9AhUAAAAAHQAAAAAQ8As)
 - [Yalansavar](https://podcasts.google.com/feed/aHR0cHM6Ly95YWxhbnNhdmFyLm9yZy9mZWVkLw?sa=X&ved=0CCgQ9sEGahgKEwjotovam6H9AhUAAAAAHQAAAAAQ8As)
 
-
+![](conf.png)
+### Akademik Kongreler
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- 
+- 
 ![r2](prop_vs_thesis.png)
 
 
