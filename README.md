@@ -185,6 +185,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [AkademikLink]
 - [Metin Aytekin]
 - [Oğuz Ergin]
+- [Bahadır Erdem](https://www.youtube.com/watch?v=Noer8FVqTF8&ab_channel=Bahad%C4%B1rErdem)
+- 
 
 ### İngilizce Ders Videoları
 - [Benim Hocam]
