@@ -23,6 +23,8 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [Semantic Scholar](https://www.semanticscholar.org/)
 - [CORE](https://core.ac.uk/)
 - [Arnetminer](http://www.arnetminer.org/)
+- [List of academic databases and search engines](https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines)
+- [List of preprint repositories](https://en.wikipedia.org/wiki/List_of_preprint_repositories)
 
 ### Çeviri ve proofreading hizmetleri
 - [DeepL translator](https://www.deepl.com/translator)
@@ -42,7 +44,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [Taylor & Francis](https://www.tandfonline.com/)
 - [Mdpi](https://www.mdpi.com/)
 - [Hindawi](https://www.hindawi.com/)
-- 
+
 
 ## Faydalı Youtube Kanalları
 ![youtube](youtube.png)
