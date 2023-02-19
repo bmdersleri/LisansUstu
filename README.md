@@ -18,6 +18,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [Microsoft Academic](https://academic.microsoft.com/)
 - [Arxiv](https://arxiv.org/)
 - [BASE](https://www.base-search.net/)
+- [Wolframalpha](https://www.wolframalpha.com/)
 - [Science.gov](http://science.gov)
 - [Semantic Scholar](https://www.semanticscholar.org/)
 
