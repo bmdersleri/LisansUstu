@@ -206,6 +206,16 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [Akademik İngilizce](https://www.youtube.com/watch?v=sLy0j78Ff-s&list=PLUn5-GcXt0nLL173SXvd7z2pQdwIF8WtO&ab_channel=Dr.AliKURU)
 - [Hüseyin Demirtaş ile İngilizce](https://www.youtube.com/@hdingilizce)
 
+### Podcastler
+- [Akademik Link](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zNmM5ZDgwNC9wb2RjYXN0L3Jzcw?sa=X&ved=2ahUKEwjWk8TZm6H9AhUVlv0HHRtMDB8Q9sEGegQIARAE)
+- [Learning English](https://podcasts.google.com/feed/aHR0cHM6Ly9sZWFybmluZ2VuZ2xpc2gudm9hbmV3cy5jb20vcG9kY2FzdC8_em9uZUlkPTE2ODk/episode/aHR0cHM6Ly9sZWFybmluZ2VuZ2xpc2gudm9hbmV3cy5jb20vYS82OTQ4MTgwLmh0bWw?sa=X&ved=0CC4Qz4EHahcKEwjotovam6H9AhUAAAAAHQAAAAAQaA)
+- [HardwarePlus](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85Mzc4MGQwL3BvZGNhc3QvcnNz?sa=X&ved=0CAMQ4aUDahgKEwjotovam6H9AhUAAAAAHQAAAAAQjgI)
+- [On Purpose with Jay Shetty](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9vekxOa0FxSQ?sa=X&ved=0CAMQ4aUDahgKEwjotovam6H9AhUAAAAAHQAAAAAQkAU)
+- [Bu mu yani?](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZTg4M2Q4Yy9wb2RjYXN0L3Jzcw?sa=X&ved=0CA8Q9sEGahgKEwjotovam6H9AhUAAAAAHQAAAAAQvQg)
+- [Üretim bandı](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMjc2MDg3OS9lcGlzb2Rlcy9mZWVk?sa=X&ved=0CBsQ9sEGahgKEwjotovam6H9AhUAAAAAHQAAAAAQ3wk)
+- [Fularsız Entellik](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuYXJ0MTkuY29tL2Z1bGFyc3otZW50ZWxsaWs?sa=X&ved=0CB8Q9sEGahgKEwjotovam6H9AhUAAAAAHQAAAAAQ8As)
+- []()
+
 ![r2](prop_vs_thesis.png)
 
 
