@@ -194,7 +194,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [Felsefe Konuşmaları](https://www.youtube.com/watch?v=Jz0ARYC9XNc&list=PLE_5ZNMPNdyZsCjS4_kXeNmypbyLDPv2A&ab_channel=AntalyaK%C3%BClt%C3%BCrSanat)
 - [Bilim Akademisi](https://www.youtube.com/watch?v=WAL0HA8TYSI&list=RDQMK_3M0S8Em_E&start_radio=1&ab_channel=BilimAkademisi)
 
-
+![](english.png)
 ### İngilizce Ders Videoları
 - [Benim Hocam]
 - [Eng vid James](https://www.youtube.com/@engvidJames)
