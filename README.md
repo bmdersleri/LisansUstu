@@ -190,6 +190,10 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [Akademik Gelişim](https://www.youtube.com/@AkademikGelisim)
 - [Ata Özdemirci](https://www.youtube.com/watch?v=PTZQuSlu5Fs&ab_channel=Ata%C3%96zdemirci)
 - [Ankara us atölyesi](https://www.youtube.com/@ankarausatolyesi)
+- [Bilim Felsefesi 101](https://www.youtube.com/watch?v=JsiSOaO0q_w&list=PL4itydzTZXnySsCGp9R0NmWd6c7RJjUbS&ab_channel=GelecekBilimde)
+- [Felsefe Etkinlikleri](https://www.youtube.com/watch?v=IH33XJ6u95w&list=PLbZgYxuAwEItZn1jBu0vDtYvMTiQ6u9mo&ab_channel=%C4%B0stanbulTabipOdas%C4%B1)
+- [Felsefe Konuşmaları](https://www.youtube.com/watch?v=Jz0ARYC9XNc&list=PLE_5ZNMPNdyZsCjS4_kXeNmypbyLDPv2A&ab_channel=AntalyaK%C3%BClt%C3%BCrSanat)
+- 
 
 ### İngilizce Ders Videoları
 - [Benim Hocam]
