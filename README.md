@@ -179,6 +179,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [Practical Engineering]
 - [Animagraffs]
 
+![](felsefe.png)
 ### Akademik Hayat ve Bilim Felsefesi
 - [AkademikLink]
 - [Metin Aytekin]
@@ -206,6 +207,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [Akademik İngilizce](https://www.youtube.com/watch?v=sLy0j78Ff-s&list=PLUn5-GcXt0nLL173SXvd7z2pQdwIF8WtO&ab_channel=Dr.AliKURU)
 - [Hüseyin Demirtaş ile İngilizce](https://www.youtube.com/@hdingilizce)
 
+![](podcast.png)
 ### Podcastler
 - [Teknoloji ve Bilim Notları](https://podcasts.google.com/feed/aHR0cHM6Ly90ZWtub3NleWlyLmNvbS9mZWVkL2JpbGltX25vdGxhcmk?sa=X&ved=0CCoQ9sEGahgKEwjotovam6H9AhUAAAAAHQAAAAAQ8As)
 - [Akademik Link](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zNmM5ZDgwNC9wb2RjYXN0L3Jzcw?sa=X&ved=2ahUKEwjWk8TZm6H9AhUVlv0HHRtMDB8Q9sEGegQIARAE)
