@@ -228,7 +228,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 ### Akademik Kongreler
 - [Uluslararası Atlas Kongreleri](https://www.atlasconference.org/applied)
 - [ULUSLARARASI KAPADOKYA BİLİMSEL ARAŞTIRMALAR KONGRESİ](https://www.cappadociacongress.org/)
-- []()
+- [ULUSLARARASI KARADENİZ MODERN BİLİMSEL ARAŞTIRMALAR KONGRESİ](https://tr.blackseacountries.org/karadenizkongresi)
 - []()
 - []()
 - []()
