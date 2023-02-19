@@ -201,6 +201,9 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [Alex ESL vid](https://www.youtube.com/user/AlexESLvid)
 - [Aksen Kahraman](https://www.youtube.com/@aksenkahraman)
 - [İngilizce Konu Anlatimi](https://www.youtube.com/@ingilizcekonuanlatimi)
+- [Evde Akademik Ingilizce](https://www.youtube.com/@EvdeAkademikIngilizce)
+- [ActivonEnglish](https://www.youtube.com/@activonenglish)
+- [Akademik İngilizce](https://www.youtube.com/watch?v=sLy0j78Ff-s&list=PLUn5-GcXt0nLL173SXvd7z2pQdwIF8WtO&ab_channel=Dr.AliKURU)
 - 
 
 ![r2](prop_vs_thesis.png)
