@@ -181,13 +181,15 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [Practical Engineering]
 - [Animagraffs]
 
-### Akademik Hayat
+### Akademik Hayat ve Bilim Felsefesi
 - [AkademikLink]
 - [Metin Aytekin]
 - [Oğuz Ergin]
 - [Bahadır Erdem](https://www.youtube.com/watch?v=Noer8FVqTF8&ab_channel=Bahad%C4%B1rErdem)
 - [Ah şu akademik hayat](https://www.youtube.com/watch?v=ECgLSM44Nis&list=PLdQrCSmaGGu62H3JZXR84HWDJgR5C8iL7&ab_channel=SelinTurkes)
 - [Akademik Gelişim](https://www.youtube.com/@AkademikGelisim)
+- [Ata Özdemirci](https://www.youtube.com/watch?v=PTZQuSlu5Fs&ab_channel=Ata%C3%96zdemirci)
+- [Ankara us atölyesi](https://www.youtube.com/@ankarausatolyesi)
 
 ### İngilizce Ders Videoları
 - [Benim Hocam]
