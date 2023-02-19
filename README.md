@@ -13,8 +13,13 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [Mendeley](https://www.mendeley.com/)
 - [Mendeley Dersleri 1](https://www.youtube.com/watch?v=mWI2AQmnGlY&ab_channel=SelmanAlmis) [2](https://www.youtube.com/watch?v=5Bkqgigr_Tc&ab_channel=Abdurrahman%C3%87am) [3](https://www.youtube.com/watch?v=Yz_J3Z4sqQE&ab_channel=Dr.Cengiz%C3%96LMEZ)
 
+### Arama Motorları
+- [Google scholar](https://scholar.google.com/)
+- 
 
-
+### Çeviri hizmetleri
+- [DeepL translator](https://www.deepl.com/translator)
+- [Google Translate](https://translate.google.com/?hl=tr&sl=en&tl=tr&op=translate)
 
 ## Faydalı Youtube Kanalları
 ![youtube](youtube.png)
