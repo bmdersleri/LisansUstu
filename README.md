@@ -13,6 +13,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [Mendeley](https://www.mendeley.com/)
 - [Mendeley Dersleri 1](https://www.youtube.com/watch?v=mWI2AQmnGlY&ab_channel=SelmanAlmis) [2](https://www.youtube.com/watch?v=5Bkqgigr_Tc&ab_channel=Abdurrahman%C3%87am) [3](https://www.youtube.com/watch?v=Yz_J3Z4sqQE&ab_channel=Dr.Cengiz%C3%96LMEZ)
 
+![](search.png)
 ### Bilimsel Arama Motorları
 - [Google Scholar](https://scholar.google.com/)
 - [Microsoft Academic](https://academic.microsoft.com/)
@@ -45,7 +46,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [Hindawi](https://www.hindawi.com/)
 
 ## Faydalı Youtube Kanalları
-![](youtube.png)
+![](https://github.com/bmdersleri/LisansUstu/blob/main/youtube%20(1).png)
 
 ### Türkçe Ders Videoları
 - [BMDerslerim]
