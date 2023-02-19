@@ -16,15 +16,15 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 ### Bilimsel Arama Motorları
 - [Google Scholar](https://scholar.google.com/)
 - [Microsoft Academic](https://academic.microsoft.com/)
+- [Arxiv](https://arxiv.org/)
 - [Science.gov](http://science.gov)
 - [Semantic Scholar](https://www.semanticscholar.org/)
-- 
-- 
 
 ### Çeviri ve proofreading hizmetleri
 - [DeepL translator](https://www.deepl.com/translator)
 - [Google Translate](https://translate.google.com/?hl=tr&sl=en&tl=tr&op=translate)
 - [Quillbot](https://quillbot.com/)
+- [Grammarly](https://grammarly.com)
 
 ## Faydalı Youtube Kanalları
 ![youtube](youtube.png)
