@@ -187,6 +187,7 @@ Lisanüstü çalışmalar için yol gösterici kaynaklar...
 - [Oğuz Ergin]
 - [Bahadır Erdem](https://www.youtube.com/watch?v=Noer8FVqTF8&ab_channel=Bahad%C4%B1rErdem)
 - [Ah şu akademik hayat](https://www.youtube.com/watch?v=ECgLSM44Nis&list=PLdQrCSmaGGu62H3JZXR84HWDJgR5C8iL7&ab_channel=SelinTurkes)
+- [Akademik Gelişim](https://www.youtube.com/@AkademikGelisim)
 
 ### İngilizce Ders Videoları
 - [Benim Hocam]
