@@ -33,6 +33,11 @@ Lisansüstü çalışmalar için yol gösterici kaynaklar...
 - [Quillbot](https://quillbot.com/)
 - [Grammarly](https://grammarly.com)
 
+### Çizim programları
+- [Draw.io](https://www.draw.io/)
+- [CloudCraft](https://app.cloudcraft.co/)
+
+
 ### Üye olmanız gereken yerler
 - [ResearchGate](https://www.researchgate.net/)
 - [ORCID](https://orcid.org/)
