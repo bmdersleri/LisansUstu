@@ -4,7 +4,7 @@ Genel yapı ile ilgili kontroller:
 
 1. Yayının başlığı konu ile alakalı mı? Çalışmayı tam olarak anlatıyor mu?
 2. Yayın IMRAD (Introduction Metodology Results And Discussion) formatına uyuyor mu?
-3. Yayının tamamında aynı aynı türde ve büyüklükte font kullanıldı mı? (Times New Roman 12 punto vb)
+3. Yayının tamamında aynı türde ve büyüklükte font kullanıldı mı? (Times New Roman 12 punto vb)
 5. Özet bölümünde kısaltma veya formül kullanıldı mı? (Kısaltma veya formül kullanılmamalı) 
 6. Özetteki kelime sayısı yayının isterlerine uygun mu? (250 veya 300 kelime gibi)
 7. En az 3 adet anahtar kelime yazıldı mı? (normal de 5 adet olması gerekir)
