@@ -14,7 +14,9 @@ Genel yapı ile ilgili kontroller:
 11. Çalışmada en az 1 adet tablo, en az 1 adet şekil var mı?
 12. Tablo ve şekil yazıları tek başlarına açıklayıcı mı?
 13. Şekil çözünürlükleri en az **300dpi** mı?
-14. 
+14. Şekiller vektör tabanlı bir uygulama ile mi hazırlandı? (draw.io vb)
+15. Tüm şekillerde aynı türde ve büyüklükte font kullanıldı mı? (Times New Roman 12 punto vb)
+16. 
 
 
 **GİRİŞ BÖLÜMÜ**
