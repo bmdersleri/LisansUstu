@@ -16,8 +16,9 @@ Genel yapı ile ilgili kontroller:
 13. Tablo ve şekil yazıları tek başlarına yeterince açıklayıcı mı?
 14. Şekil çözünürlükleri en az **300dpi** mı?
 15. Şekiller vektör tabanlı bir uygulama ile mi hazırlandı? (draw.io vb)
-16. Tüm şekillerde aynı türde ve büyüklükte font kullanıldı mı? (Times New Roman 12 punto vb)
-17. 
+16. Yayın Türkçe ise şekiller içerisinde her ifade Türkçe mi? 
+17. Tüm şekillerde aynı türde ve büyüklükte font kullanıldı mı? (Times New Roman 12 punto vb)
+18. 
 
 
 
