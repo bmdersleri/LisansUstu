@@ -40,19 +40,24 @@ problemin ne olduğundan ve öneminden bahsedilir.
 
 
 
-**Özet**
+**Özet : **
 *Kısa ve öz olarak ne yapıldı ve bulundu?*
 
-
-**Giriş** 
+**Giriş : ** 
 *Problem nedir?*
 
-**Materyal ve Metot** 
+**Materyal ve Metot : ** 
 *Problem Nasıl çözüldü?* 	
 
-Ne buldum? 	Sonuçlar 
-Sonuçlar ne anlama gelir? 	Tartışma 
-Kim /hangi kuruluş yardımcı oldu 	Teşekkür (isteğe bağlı) 
+**Sonuçlar : ** 
+*Ne buldum?*
 
-Hangi Literatürler Kullanıldı? 	Literatür Listesi 
+**Tartışma : **  
+*Sonuçlar ne anlama gelir?*
+
+** Teşekkür (isteğe bağlı) :** 
+*Kim /hangi kuruluş yardımcı oldu*
+
+**Literatür Listesi** 
+*Hangi Literatürler Kullanıldı?*
 
