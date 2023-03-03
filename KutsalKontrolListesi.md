@@ -52,8 +52,8 @@ problemin ne olduğundan ve öneminden bahsedilir.
 **Sonuçlar ve Tartışma:** 
 *Ne buldum? Sonuçlar ne anlama gelir?*
 
-** Teşekkür (isteğe bağlı) :** 
-*Kim /hangi kuruluş yardımcı oldu*
+** Teşekkür :** 
+*Kimler veya hangi kuruluşlar yardımcı oldu*
 
 **Literatür Listesi :** 
 *Hangi Literatürler Kullanıldı?*
