@@ -1,10 +1,11 @@
-*Yayın Öncesi Kutsal Kontrol Listesi (KKL)*
+**Yayın Öncesi Kutsal Kontrol Listesi (KKL)**
 
 Genel yapı ile ilgili kontroller:
 
 1. Yayın IMRAD (Introduction Metodology Results And Discussion) formatına uyuyor mu?
-2. Özet bölümünde kısaltma kullanılmamalı kelime sayısı yayının isterlerine uygun olmalı
-3. En az 3 adet anahtar kelime yazılmalı normal de 5 adet olması gerekir. Anahtar kelimeler alfebetik sırada olmalı.
+2. Özet bölümünde kısaltma kullanılmamalı kelime sayısı yayının isterlerine uygun mu?
+3. En az 3 adet anahtar kelime yazılmalı normal de 5 adet olması gerekir. Anahtar kelimeler alfebetik sırada mı?
+4. Referans sayısı en az 15 adet olmnalı.
 
 
 **GİRİŞ BÖLÜMÜ**
@@ -12,7 +13,7 @@ Genel yapı ile ilgili kontroller:
 Giriş bölümü motivasyonun ve literatürde yapılmış benzer çalışmalar hakkında bilgilendirmenin yapıldığı bölümdür. Bu bölümde öncelikle 
 problemin ne olduğundan ve öneminden bahsedilir. 
 
-Sen bunu neden yazdın, ben bunu neden okumalıyım?
+*Sen bunu neden yazdın, ben bunu neden okumalıyım?*
 
 
 
