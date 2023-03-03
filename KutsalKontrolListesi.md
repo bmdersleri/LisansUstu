@@ -52,7 +52,7 @@ problemin ne olduğundan ve öneminden bahsedilir.
 **Sonuçlar ve Tartışma:** 
 *Ne buldum? Sonuçlar ne anlama gelir?*
 
-** Teşekkür :** 
+**Teşekkür :** 
 *Kimler veya hangi kuruluşlar yardımcı oldu*
 
 **Literatür Listesi :** 
