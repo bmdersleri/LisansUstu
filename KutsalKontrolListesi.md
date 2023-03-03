@@ -1,4 +1,4 @@
-Yayın Öncesi Kutsal Kontrol Listesi (KKL)
+*Yayın Öncesi Kutsal Kontrol Listesi (KKL)*
 
 Genel yapı ile ilgili kontroller:
 
