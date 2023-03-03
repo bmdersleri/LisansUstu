@@ -13,7 +13,7 @@ Genel yapı ile ilgili kontroller:
 10. Referans yazım stili yayın formatı ile uyumlu mu? (IEEE, APA7 vb.)
 11. Çalışmada en az 1 adet tablo, en az 1 adet şekil var mı?
 12. Tablo ve şekil yazıları tek başlarına açıklayıcı mı?
-13. Şekil çözünürlükleri en az 300dpi mı?
+13. Şekil çözünürlükleri en az **300dpi** mı?
 14. 
 
 
