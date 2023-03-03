@@ -19,6 +19,11 @@ Genel yapı ile ilgili kontroller:
 16. 
 
 
+
+
+**Özet**
+
+
 **GİRİŞ BÖLÜMÜ**
 
 Giriş bölümü motivasyonun ve literatürde yapılmış benzer çalışmalar hakkında bilgilendirmenin yapıldığı bölümdür. Bu bölümde öncelikle 
@@ -31,4 +36,23 @@ problemin ne olduğundan ve öneminden bahsedilir.
 **METODOLOJİ  BÖLÜMÜ**
 Çalışma kapsamında yapılan işlemlerin hangi yöntemlerle nasıl yapıldığından detaylı olarak bahsedilir. Bu bölüm için yapılan tüm işlemleri özetleyen bir infografik hazırlanması ve bu resim üzerinden çalışmanın anlatılması son derece anlamlı olur.
 
+**SONUÇLAR**
+
+
+
+**Özet**
+*Kısa ve öz olarak ne yapıldı ve bulundu?*
+
+
+**Giriş** 
+*Problem nedir?*
+
+**Materyal ve Metot** 
+*Problem Nasıl çözüldü?* 	
+
+Ne buldum? 	Sonuçlar 
+Sonuçlar ne anlama gelir? 	Tartışma 
+Kim /hangi kuruluş yardımcı oldu 	Teşekkür (isteğe bağlı) 
+
+Hangi Literatürler Kullanıldı? 	Literatür Listesi 
 
