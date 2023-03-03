@@ -18,7 +18,8 @@ Genel yapı ile ilgili kontroller:
 15. Şekiller vektör tabanlı bir uygulama ile mi hazırlandı? (draw.io vb)
 16. Yayın Türkçe ise şekiller içerisinde her ifade Türkçe mi? 
 17. Tüm şekillerde aynı türde ve büyüklükte font kullanıldı mı? (Times New Roman 12 punto vb)
-18. Renk seçimleri için [Renklerin uyumu](https://colorhunt.co/palettes/pastel) ve [Renk puanlandırması](https://contrast-ratio.com/)
+18. Renk seçimleri için [Renklerin uyumu](https://colorhunt.co/palettes/pastel) ve [Renk uyumu puanlandırması](https://contrast-ratio.com/) sitelerini kullandınız mı?
+19. 
 
 
 
