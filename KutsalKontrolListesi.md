@@ -2,10 +2,19 @@
 
 Genel yapı ile ilgili kontroller:
 
-1. Yayın IMRAD (Introduction Metodology Results And Discussion) formatına uyuyor mu?
-2. Özet bölümünde kısaltma kullanılmamalı kelime sayısı yayının isterlerine uygun mu?
-3. En az 3 adet anahtar kelime yazılmalı normal de 5 adet olması gerekir. Anahtar kelimeler alfebetik sırada mı?
-4. Referans sayısı en az 15 adet olmnalı.
+1. Yayının başlığı konu ile alakalı mı? Çalışmayı tam olarak anlatıyor mu?
+2. Yayın IMRAD (Introduction Metodology Results And Discussion) formatına uyuyor mu?
+3. Yayının tamamında aynı aynı türde ve büyüklükte font kullanıldı mı? (Times New Roman 12 punto vb)
+5. Özet bölümünde kısaltma kullanıldı mı? 
+6. Özetteki kelime sayısı yayının isterlerine uygun mu?
+7. En az 3 adet anahtar kelime yazıldı mı? (normal de 5 adet olması gerekir)
+8. Anahtar kelimeler alfebetik sırada mı?
+9. Referans sayısı en az 15 adet mi?
+10. Referans yazım stili yayın formatı ile uyumlu mu? (IEEE, APA7 vb.)
+11. Çalışmada en az 1 adet tablo, en az 1 adet şekil var mı?
+12. Tablo ve şekil yazıları tek başlarına açıklayıcı mı?
+13. Şekil çözünürlükleri en az 300dpi mı?
+14. 
 
 
 **GİRİŞ BÖLÜMÜ**
