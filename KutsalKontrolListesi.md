@@ -42,7 +42,7 @@ Genel yapı ile ilgili kontroller:
 ---
 
 **ÖZET BÖLÜMÜ**
-
+Kısa olmalı, tüm makaleyi özetlemeli, makalenin tümünü okumaya gerek kalmadan anlaşılmalıdır. Varsa buluşlar vurgulanmalıdır. Makalede geçen her bölümü özetlemelidir. Makalenin özeti en son yazılmalıdır.
 
 **GİRİŞ BÖLÜMÜ**
 
@@ -51,11 +51,12 @@ problemin ne olduğundan ve öneminden bahsedilir.
 
 *Sen bunu neden yazdın, ben bunu neden okumalıyım?*
 
-
-
 **METODOLOJİ  BÖLÜMÜ**
-Çalışma kapsamında yapılan işlemlerin hangi yöntemlerle nasıl yapıldığından detaylı olarak bahsedilir. Bu bölüm için yapılan tüm işlemleri özetleyen bir infografik hazırlanması ve bu resim üzerinden çalışmanın anlatılması son derece anlamlı olur.
+Çalışma kapsamında yapılan işlemlerin hangi yöntemlerle nasıl yapıldığından detaylı olarak bahsedilir. Bu bölüm için yapılan tüm işlemleri özetleyen bir infografik hazırlanması ve bu resim üzerinden çalışmanın anlatılması son derece anlamlı olur. Bu bölümde “Giriş” bölümünde belirtilen amaca ulaşmak için ne/nasıl yapılacağı belirtilir. Metottaki kritik noktaların verilmemesi hakemin makaleyi reddine sebep olabilir. Bazı durumlarda çok detaylı metot için önceki çalışmalara atıf yapılabilir. Yine materyal ve metot çizelge veya şekil ile verilebilir.
 
 **SONUÇLAR**
+Amaç, çalışmada elde edilen bilgiyi sunmaktadır. Materyal Metot’ta belirtilen sıralamaya göre sonuçlar verilmelidir. Metottaki bilgiler bu bölümde tekrar edilmemelidir. Yorum tartışma kısmında yapıldığından, verilerin sunulmasında yorum yapılmamalıdır. Veriler, Bulgular başlığı altında yer alıyorsa burada atıf yapılmaz. Ancak veriler Bulgular ve Tartışma başlığı altınsa ise, veriler literatür bilgileri ile karşılaştırılacağı için atıf yapılır. Bulgular bölümünün iki malzemesi vardır. İlk olarak, Materyal ve Metot’daki ayrıntıları tekrarlamadan, deneylerin tanımı yapılır. Sonra veriler/bulgular geçmiş zaman kullanılarak verilir. Çizelge ve şekillerdeki verilerin metinde tekrar sunulması büyük hatadır. Sadece önemli vurgular metinde yapılmalıdır. Aynı bilgilerin hem çizelge hem de şekil olarak verilmesi de yanlıştır.
 
+**TARTIŞMA**
+Sonuçların gösterdiği genelleştirmeler sunulur. Sonuçların ve yorumların önce yayınlananlarla uyumluk durumu nedenleriyle açıklanır. Tartışmada uyumlu olmayan beklenmeyen bulgular kesinlikle saklanmamalıdır. Varılan sonuçlar açıkça net olarak ifade edilir. Araştırmanın teorik yönleri ve pratik uygulamaları ele alınır. Literatür bilgileri ve temel bilgiler geniş zamanda, bulgular geçmiş zamanda verilir. Tartışma, araştırmanın önemini belirten özetle başlamalı ve sonuç paragrafı ile bitmelidir.
 
