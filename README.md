@@ -20,6 +20,7 @@ Lisansüstü çalışmalar için yol gösterici kaynaklar...
 - [Arxiv](https://arxiv.org/)
 - [BASE](https://www.base-search.net/)
 - [Wolframalpha](https://www.wolframalpha.com/)
+- [ConnectedPapers](https://www.connectedpapers.com/)
 - [Science.gov](http://science.gov)
 - [Semantic Scholar](https://www.semanticscholar.org/)
 - [CORE](https://core.ac.uk/)
