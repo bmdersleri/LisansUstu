@@ -38,6 +38,8 @@ Lisansüstü çalışmalar için yol gösterici kaynaklar...
 - [Draw.io](https://www.draw.io/)
 - [CloudCraft](https://app.cloudcraft.co/)
 
+### Zihin haritası yazılımı
+- [FreeMind](https://sourceforge.net/projects/freemind/)
 
 ### Üye olmanız gereken yerler
 - [ResearchGate](https://www.researchgate.net/)
