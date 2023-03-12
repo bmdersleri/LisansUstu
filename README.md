@@ -40,6 +40,7 @@ Lisansüstü çalışmalar için yol gösterici kaynaklar...
 
 ### Zihin haritası yazılımı
 - [FreeMind](https://sourceforge.net/projects/freemind/)
+- [Zihin haritası örneği](https://github.com/bmdersleri/LisansUstu/blob/main/ad%C4%B1m%20say%C4%B1s%C4%B1%20tespiti.mm)
 
 ### Üye olmanız gereken yerler
 - [ResearchGate](https://www.researchgate.net/)
