@@ -1,4 +1,4 @@
-# Lisans Üstü Öğrencileri Çalışma Grubu
+# Lisansüstü Öğrencileri Çalışma Grubu
 Lisansüstü çalışmalar için yol gösterici kaynaklar...
 
 ![](her_is_zor_baslar.png)
