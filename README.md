@@ -4,7 +4,7 @@ Lisansüstü çalışmalar için yol gösterici kaynaklar...
 ![](her_is_zor_baslar.png)
 
 ## ✨ Mutlaka okumanız gereken 2 yazı ✨
-1. [IMRAD prensipleri]
+1. [IMRAD prensipleri] (Introduction Methodology Results and Discussion)
 2. [Akademik Yazım ve Arastırmacılara Öneriler]
 
 ### Referans Düzenleme Yazılımları
