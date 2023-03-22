@@ -29,14 +29,15 @@ Lisansüstü çalışmalar için yol gösterici kaynaklar...
 - [List of preprint repositories](https://en.wikipedia.org/wiki/List_of_preprint_repositories)
 
 Dergi Tavsiye Sistemleri
-- Springer(https://journalsuggester.springer.com/)
-- IEEE(https://publication-recommender.ieee.org/home)
-- Elsevier(https://journalfinder.elsevier.com/)
+- [Springer](https://journalsuggester.springer.com/)
+- [IEEE](https://publication-recommender.ieee.org/home)
+- [Elsevier](https://journalfinder.elsevier.com/)
 
 Dergi Kontrol Siteleri
-- LetPub(https://www.letpub.com/index.php?page=journalapp&view=search)
-- Scimago (Q1, Q2, Q3, Q4)(https://www.scimagojr.com/)
-- TÜBİTAK Türkiye Adresli Uluslararası Bilimsel Yayınları Teşvik (UBYT)(https://cabim.ulakbim.gov.tr/ubyt/)
+- [LetPub](https://www.letpub.com/index.php?page=journalapp&view=search)
+- [Scimago (Q1, Q2, Q3, Q4)](https://www.scimagojr.com/)
+- [Master Journal list](https://mjl.clarivate.com/home)
+- [TÜBİTAK Türkiye Adresli Uluslararası Bilimsel Yayınları Teşvik (UBYT)](https://cabim.ulakbim.gov.tr/ubyt/)
 
 ### Çeviri ve proofreading hizmetleri
 - [DeepL translator](https://www.deepl.com/translator)
