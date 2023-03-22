@@ -32,6 +32,7 @@ Dergi Tavsiye Sistemleri
 - Springer(https://journalsuggester.springer.com/)
 - IEEE(https://publication-recommender.ieee.org/home)
 - Elsevier(https://journalfinder.elsevier.com/)
+
 Dergi Kontrol Siteleri
 - LetPub(https://www.letpub.com/index.php?page=journalapp&view=search)
 - Scimago (Q1, Q2, Q3, Q4)(https://www.scimagojr.com/)
