@@ -19,7 +19,8 @@ Genel yapı ile ilgili kontroller:
 16. Yayın Türkçe ise şekiller içerisinde her ifade Türkçe mi? 
 17. Tüm şekillerde aynı türde ve büyüklükte font kullanıldı mı? (Times New Roman 12 punto vb)
 18. Renk seçimleri için [Renklerin uyumu](https://colorhunt.co/palettes/pastel) ve [Renk uyumu puanlandırması](https://contrast-ratio.com/) sitelerini kullandınız mı?
-19. 
+19. Ithenticate benzerlik oranı %15'in altında mı?
+20. 
 
 
 
